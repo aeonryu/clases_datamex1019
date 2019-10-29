@@ -58,6 +58,19 @@ where items/orders>1
 
 
 
+create temporary table publications.store_sales_summary
+select stores.stor_id as storeID, stores.stor_name as store,
+count(distinct(ord_num)) as orders, 
+count(title_id) as items, sum(qty) as qty
+from publications.sales sales
+inner join publications.stores stores
+on stores.stor_id=sales.stor_id
+group by storeID, store
+;
+
+
+select *
+from publications.store_sales_summary;
 
 
 
