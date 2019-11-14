@@ -1,0 +1,1113 @@
+,_id,name,lat,lng,oficina_principal,total_offices
+0,5dcda2de82fcdd0bd00ff6d9,SpaBooker,40.738567,-73.987199,"{'type': 'Point', 'coordinates': [-73.987199, 40.738567]}",1
+1,5dcda3e682fcdd0bd0101c6b,SpaBooker,40.738567,-73.987199,"{'type': 'Point', 'coordinates': [-73.987199, 40.738567]}",1
+2,5dcda2de82fcdd0bd00fe099,Special Ops Media,40.737721,-73.987725,"{'type': 'Point', 'coordinates': [-73.987725, 40.737721]}",1
+3,5dcda3e682fcdd0bd010062b,Special Ops Media,40.737721,-73.987725,"{'type': 'Point', 'coordinates': [-73.987725, 40.737721]}",1
+4,5dcda2de82fcdd0bd00ff575,manageME7,40.7376483,-73.988315,"{'type': 'Point', 'coordinates': [-73.988315, 40.7376483]}",1
+5,5dcda3e682fcdd0bd0101b07,manageME7,40.7376483,-73.988315,"{'type': 'Point', 'coordinates': [-73.988315, 40.7376483]}",1
+6,5dcda2de82fcdd0bd00fdc7d,BustedTees,40.737136,-73.987973,"{'type': 'Point', 'coordinates': [-73.987973, 40.737136]}",1
+7,5dcda3e682fcdd0bd010020f,BustedTees,40.737136,-73.987973,"{'type': 'Point', 'coordinates': [-73.987973, 40.737136]}",1
+8,5dcda2de82fcdd0bd00fe5f0,CashEdge,40.736796,-73.988339,"{'type': 'Point', 'coordinates': [-73.988339, 40.736796]}",3
+9,5dcda3e682fcdd0bd0100b82,CashEdge,40.736796,-73.988339,"{'type': 'Point', 'coordinates': [-73.988339, 40.736796]}",3
+10,5dcda3e682fcdd0bd0100a43,HealthiNation,40.739341,-73.988357,"{'type': 'Point', 'coordinates': [-73.988357, 40.739341]}",1
+11,5dcda2de82fcdd0bd00fe4b1,HealthiNation,40.739341,-73.988357,"{'type': 'Point', 'coordinates': [-73.988357, 40.739341]}",1
+12,5dcda2de82fcdd0bd00fde85,Phreesia,40.739794,-73.985878,"{'type': 'Point', 'coordinates': [-73.985878, 40.739794]}",1
+13,5dcda3e682fcdd0bd0100417,Phreesia,40.739794,-73.985878,"{'type': 'Point', 'coordinates': [-73.985878, 40.739794]}",1
+14,5dcda2de82fcdd0bd00ffd2b,Mashable,40.7401544,-73.9867417,"{'type': 'Point', 'coordinates': [-73.9867417, 40.7401544]}",1
+15,5dcda3e682fcdd0bd01022bd,Mashable,40.7401544,-73.9867417,"{'type': 'Point', 'coordinates': [-73.9867417, 40.7401544]}",1
+16,5dcda2de82fcdd0bd00fee30,Return Path,40.740207,-73.987002,"{'type': 'Point', 'coordinates': [-73.987002, 40.740207]}",1
+17,5dcda3e682fcdd0bd01013c2,Return Path,40.740207,-73.987002,"{'type': 'Point', 'coordinates': [-73.987002, 40.740207]}",1
+18,5dcda2de82fcdd0bd00ff7ea,HD Cloud,40.7391853,-73.9897456,"{'type': 'Point', 'coordinates': [-73.9897456, 40.7391853]}",1
+19,5dcda3e682fcdd0bd0101d7c,HD Cloud,40.7391853,-73.9897456,"{'type': 'Point', 'coordinates': [-73.9897456, 40.7391853]}",1
+20,5dcda3e682fcdd0bd01005b4,FeedBackFX,40.740348,-73.985777,"{'type': 'Point', 'coordinates': [-73.985777, 40.740348]}",1
+21,5dcda2de82fcdd0bd00fe022,FeedBackFX,40.740348,-73.985777,"{'type': 'Point', 'coordinates': [-73.985777, 40.740348]}",1
+22,5dcda2de82fcdd0bd00fdc72,BeliefNet,40.740231,-73.985433,"{'type': 'Point', 'coordinates': [-73.985433, 40.740231]}",1
+23,5dcda3e682fcdd0bd0100204,BeliefNet,40.740231,-73.985433,"{'type': 'Point', 'coordinates': [-73.985433, 40.740231]}",1
+24,5dcda2de82fcdd0bd00fed83,"RGA Advisors, LLC",40.740145,-73.985207,"{'type': 'Point', 'coordinates': [-73.985207, 40.740145]}",2
+25,5dcda3e682fcdd0bd0101315,"RGA Advisors, LLC",40.740145,-73.985207,"{'type': 'Point', 'coordinates': [-73.985207, 40.740145]}",2
+26,5dcda2de82fcdd0bd00fe8ff,Gust,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",2
+27,5dcda2de82fcdd0bd00fea9f,Gust,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",2
+28,5dcda2de82fcdd0bd00fec37,Voice123,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",1
+29,5dcda2de82fcdd0bd00ff3e3,Comixology,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",1
+30,5dcda2de82fcdd0bd00ff633,PerformLine,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",3
+31,5dcda3e682fcdd0bd0100e91,Gust,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",2
+32,5dcda3e682fcdd0bd0101031,Gust,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",2
+33,5dcda3e682fcdd0bd01011c9,Voice123,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",1
+34,5dcda3e682fcdd0bd0101975,Comixology,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",1
+35,5dcda3e682fcdd0bd0101bc5,PerformLine,40.740512,-73.987794,"{'type': 'Point', 'coordinates': [-73.987794, 40.740512]}",3
+36,5dcda2de82fcdd0bd00fe401,MissGift,40.737363,-73.983665,"{'type': 'Point', 'coordinates': [-73.983665, 40.737363]}",1
+37,5dcda3e682fcdd0bd0100993,MissGift,40.737363,-73.983665,"{'type': 'Point', 'coordinates': [-73.983665, 40.737363]}",1
+38,5dcda2de82fcdd0bd00fdff6,Digital Railroad,40.735327,-73.988469,"{'type': 'Point', 'coordinates': [-73.988469, 40.735327]}",1
+39,5dcda3e682fcdd0bd0100588,Digital Railroad,40.735327,-73.988469,"{'type': 'Point', 'coordinates': [-73.988469, 40.735327]}",1
+40,5dcda2de82fcdd0bd00fe87b,YellowSpaces,40.739867,-73.990024,"{'type': 'Point', 'coordinates': [-73.990024, 40.739867]}",1
+41,5dcda2de82fcdd0bd00fea1b,YellowSpaces,40.739867,-73.990024,"{'type': 'Point', 'coordinates': [-73.990024, 40.739867]}",1
+42,5dcda3e682fcdd0bd0100e0d,YellowSpaces,40.739867,-73.990024,"{'type': 'Point', 'coordinates': [-73.990024, 40.739867]}",1
+43,5dcda3e682fcdd0bd0100fad,YellowSpaces,40.739867,-73.990024,"{'type': 'Point', 'coordinates': [-73.990024, 40.739867]}",1
+44,5dcda3e682fcdd0bd010163a,Modelinia,40.739867,-73.990024,"{'type': 'Point', 'coordinates': [-73.990024, 40.739867]}",1
+45,5dcda2de82fcdd0bd00ff0a8,Modelinia,40.739867,-73.990024,"{'type': 'Point', 'coordinates': [-73.990024, 40.739867]}",1
+46,5dcda2de82fcdd0bd00ff191,Robotgalaxy,40.737216,-73.990947,"{'type': 'Point', 'coordinates': [-73.990947, 40.737216]}",1
+47,5dcda3e682fcdd0bd0101723,Robotgalaxy,40.737216,-73.990947,"{'type': 'Point', 'coordinates': [-73.990947, 40.737216]}",1
+48,5dcda2de82fcdd0bd00fdfff,Business Insider,40.73906,-73.990911,"{'type': 'Point', 'coordinates': [-73.990911, 40.73906]}",1
+49,5dcda3e682fcdd0bd0100591,Business Insider,40.73906,-73.990911,"{'type': 'Point', 'coordinates': [-73.990911, 40.73906]}",1
+50,5dcda3e682fcdd0bd00fffcd,SelectMinds,40.740251,-73.990004,"{'type': 'Point', 'coordinates': [-73.990004, 40.740251]}",1
+51,5dcda2de82fcdd0bd00fda3b,SelectMinds,40.740251,-73.990004,"{'type': 'Point', 'coordinates': [-73.990004, 40.740251]}",1
+52,5dcda3e682fcdd0bd0101ecf,Breakaway Communications,40.73998,-73.9907472,"{'type': 'Point', 'coordinates': [-73.9907472, 40.73998]}",3
+53,5dcda2de82fcdd0bd00ff93d,Breakaway Communications,40.73998,-73.9907472,"{'type': 'Point', 'coordinates': [-73.9907472, 40.73998]}",3
+54,5dcda2de82fcdd0bd00ff1f9,NHA Media,40.7382749,-73.9919538,"{'type': 'Point', 'coordinates': [-73.9919538, 40.7382749]}",1
+55,5dcda3e682fcdd0bd010178b,NHA Media,40.7382749,-73.9919538,"{'type': 'Point', 'coordinates': [-73.9919538, 40.7382749]}",1
+56,5dcda3e682fcdd0bd01016d6,Proclivity Systems,40.738954,-73.992,"{'type': 'Point', 'coordinates': [-73.992, 40.738954]}",1
+57,5dcda2de82fcdd0bd00ff144,Proclivity Systems,40.738954,-73.992,"{'type': 'Point', 'coordinates': [-73.992, 40.738954]}",1
+58,5dcda3e682fcdd0bd01003ee,PayLoadz,40.738832,-73.981534,"{'type': 'Point', 'coordinates': [-73.981534, 40.738832]}",1
+59,5dcda2de82fcdd0bd00fde5c,PayLoadz,40.738832,-73.981534,"{'type': 'Point', 'coordinates': [-73.981534, 40.738832]}",1
+60,5dcda2de82fcdd0bd00fdbb8,eXelate,40.741266,-73.990753,"{'type': 'Point', 'coordinates': [-73.990753, 40.741266]}",6
+61,5dcda3e682fcdd0bd010014a,eXelate,40.741266,-73.990753,"{'type': 'Point', 'coordinates': [-73.990753, 40.741266]}",6
+62,5dcda2de82fcdd0bd00fdb28,Clickable,40.7413559,-73.9912208,"{'type': 'Point', 'coordinates': [-73.9912208, 40.7413559]}",2
+63,5dcda3e682fcdd0bd01000ba,Clickable,40.7413559,-73.9912208,"{'type': 'Point', 'coordinates': [-73.9912208, 40.7413559]}",2
+64,5dcda3e682fcdd0bd0100899,HitTail,40.741356,-73.991222,"{'type': 'Point', 'coordinates': [-73.991222, 40.741356]}",1
+65,5dcda2de82fcdd0bd00fe307,HitTail,40.741356,-73.991222,"{'type': 'Point', 'coordinates': [-73.991222, 40.741356]}",1
+66,5dcda2de82fcdd0bd00ff97b,FanFeedr,40.7395876,-73.9928423,"{'type': 'Point', 'coordinates': [-73.9928423, 40.7395876]}",1
+67,5dcda3e682fcdd0bd0101f0d,FanFeedr,40.7395876,-73.9928423,"{'type': 'Point', 'coordinates': [-73.9928423, 40.7395876]}",1
+68,5dcda2de82fcdd0bd00feaa1,Panjiva,40.741276,-73.991561,"{'type': 'Point', 'coordinates': [-73.991561, 40.741276]}",2
+69,5dcda3e682fcdd0bd0101033,Panjiva,40.741276,-73.991561,"{'type': 'Point', 'coordinates': [-73.991561, 40.741276]}",2
+70,5dcda2de82fcdd0bd00fe901,Panjiva,40.741276,-73.991561,"{'type': 'Point', 'coordinates': [-73.991561, 40.741276]}",2
+71,5dcda3e682fcdd0bd0100e93,Panjiva,40.741276,-73.991561,"{'type': 'Point', 'coordinates': [-73.991561, 40.741276]}",2
+72,5dcda2de82fcdd0bd00fe034,Cellufun,40.73993,-73.9930489,"{'type': 'Point', 'coordinates': [-73.9930489, 40.73993]}",1
+73,5dcda3e682fcdd0bd01005c6,Cellufun,40.73993,-73.9930489,"{'type': 'Point', 'coordinates': [-73.9930489, 40.73993]}",1
+74,5dcda2de82fcdd0bd00ff2f8,Web Foundation,40.7391656,-73.9934067,"{'type': 'Point', 'coordinates': [-73.9934067, 40.7391656]}",1
+75,5dcda3e682fcdd0bd010188a,Web Foundation,40.7391656,-73.9934067,"{'type': 'Point', 'coordinates': [-73.9934067, 40.7391656]}",1
+76,5dcda2de82fcdd0bd00fd9fc,Forbes,40.736416,-73.993302,"{'type': 'Point', 'coordinates': [-73.993302, 40.736416]}",1
+77,5dcda3e682fcdd0bd00fff8e,Forbes,40.736416,-73.993302,"{'type': 'Point', 'coordinates': [-73.993302, 40.736416]}",1
+78,5dcda2de82fcdd0bd00feed2,NOM,40.740672,-73.992632,"{'type': 'Point', 'coordinates': [-73.992632, 40.740672]}",2
+79,5dcda3e682fcdd0bd0101464,NOM,40.740672,-73.992632,"{'type': 'Point', 'coordinates': [-73.992632, 40.740672]}",2
+80,5dcda2de82fcdd0bd00ff2f1,LetMeGo,40.7421061,-73.9909181,"{'type': 'Point', 'coordinates': [-73.9909181, 40.7421061]}",2
+81,5dcda3e682fcdd0bd0101883,LetMeGo,40.7421061,-73.9909181,"{'type': 'Point', 'coordinates': [-73.9909181, 40.7421061]}",2
+82,5dcda2de82fcdd0bd00fed4b,Buzzr,40.740941,-73.992609,"{'type': 'Point', 'coordinates': [-73.992609, 40.740941]}",1
+83,5dcda3e682fcdd0bd01012dd,Buzzr,40.740941,-73.992609,"{'type': 'Point', 'coordinates': [-73.992609, 40.740941]}",1
+84,5dcda3e682fcdd0bd01000e2,Empressr,40.740337,-73.993127,"{'type': 'Point', 'coordinates': [-73.993127, 40.740337]}",1
+85,5dcda2de82fcdd0bd00fdb50,Empressr,40.740337,-73.993127,"{'type': 'Point', 'coordinates': [-73.993127, 40.740337]}",1
+86,5dcda2de82fcdd0bd00febc2,Buzzd,40.733928,-73.991334,"{'type': 'Point', 'coordinates': [-73.991334, 40.733928]}",1
+87,5dcda3e682fcdd0bd0101154,Buzzd,40.733928,-73.991334,"{'type': 'Point', 'coordinates': [-73.991334, 40.733928]}",1
+88,5dcda2de82fcdd0bd00fe016,Dimestore Media,40.738395,-73.993906,"{'type': 'Point', 'coordinates': [-73.993906, 40.738395]}",1
+89,5dcda3e682fcdd0bd01005a8,Dimestore Media,40.738395,-73.993906,"{'type': 'Point', 'coordinates': [-73.993906, 40.738395]}",1
+90,5dcda2de82fcdd0bd00fe36a,Dotmenu,40.740162,-73.993367,"{'type': 'Point', 'coordinates': [-73.993367, 40.740162]}",1
+91,5dcda3e682fcdd0bd01008fc,Dotmenu,40.740162,-73.993367,"{'type': 'Point', 'coordinates': [-73.993367, 40.740162]}",1
+92,5dcda2de82fcdd0bd00fe4bb,Flow TV,40.741557,-73.981829,"{'type': 'Point', 'coordinates': [-73.981829, 40.741557]}",1
+93,5dcda3e682fcdd0bd0100a4d,Flow TV,40.741557,-73.981829,"{'type': 'Point', 'coordinates': [-73.981829, 40.741557]}",1
+94,5dcda2de82fcdd0bd00ff426,TRAFFIQ,40.7429533,-73.9844611,"{'type': 'Point', 'coordinates': [-73.9844611, 40.7429533]}",1
+95,5dcda3e682fcdd0bd01019b8,TRAFFIQ,40.7429533,-73.9844611,"{'type': 'Point', 'coordinates': [-73.9844611, 40.7429533]}",1
+96,5dcda2de82fcdd0bd00fe8f2,ShopWiki,40.740441,-73.993376,"{'type': 'Point', 'coordinates': [-73.993376, 40.740441]}",1
+97,5dcda2de82fcdd0bd00fea92,ShopWiki,40.740441,-73.993376,"{'type': 'Point', 'coordinates': [-73.993376, 40.740441]}",1
+98,5dcda3e682fcdd0bd0100e84,ShopWiki,40.740441,-73.993376,"{'type': 'Point', 'coordinates': [-73.993376, 40.740441]}",1
+99,5dcda3e682fcdd0bd0101024,ShopWiki,40.740441,-73.993376,"{'type': 'Point', 'coordinates': [-73.993376, 40.740441]}",1
+100,5dcda2de82fcdd0bd00ff785,Chartbeat,40.73343,-73.990967,"{'type': 'Point', 'coordinates': [-73.990967, 40.73343]}",1
+101,5dcda3e682fcdd0bd0101d17,Chartbeat,40.73343,-73.990967,"{'type': 'Point', 'coordinates': [-73.990967, 40.73343]}",1
+102,5dcda2de82fcdd0bd00fe808,Hunch,40.741179,-73.993182,"{'type': 'Point', 'coordinates': [-73.993182, 40.741179]}",1
+103,5dcda3e682fcdd0bd0100d9a,Hunch,40.741179,-73.993182,"{'type': 'Point', 'coordinates': [-73.993182, 40.741179]}",1
+104,5dcda2de82fcdd0bd00ff4be,Milabra,40.743616,-73.9880796,"{'type': 'Point', 'coordinates': [-73.9880796, 40.743616]}",1
+105,5dcda2de82fcdd0bd00ff893,Bluewolf,40.743616,-73.9880796,"{'type': 'Point', 'coordinates': [-73.9880796, 40.743616]}",5
+106,5dcda3e682fcdd0bd0101a50,Milabra,40.743616,-73.9880796,"{'type': 'Point', 'coordinates': [-73.9880796, 40.743616]}",1
+107,5dcda3e682fcdd0bd0101e25,Bluewolf,40.743616,-73.9880796,"{'type': 'Point', 'coordinates': [-73.9880796, 40.743616]}",5
+108,5dcda2de82fcdd0bd00fe0c1,Someecards,40.737778,-73.979508,"{'type': 'Point', 'coordinates': [-73.979508, 40.737778]}",1
+109,5dcda3e682fcdd0bd0100653,Someecards,40.737778,-73.979508,"{'type': 'Point', 'coordinates': [-73.979508, 40.737778]}",1
+110,5dcda2de82fcdd0bd00ff88c,FledgeWing,40.7322535,-73.9874105,"{'type': 'Point', 'coordinates': [-73.9874105, 40.7322535]}",1
+111,5dcda3e682fcdd0bd0101e1e,FledgeWing,40.7322535,-73.9874105,"{'type': 'Point', 'coordinates': [-73.9874105, 40.7322535]}",1
+112,5dcda2de82fcdd0bd00fdc46,Yodle,40.742459,-73.9918126,"{'type': 'Point', 'coordinates': [-73.9918126, 40.742459]}",5
+113,5dcda3e682fcdd0bd01001d8,Yodle,40.742459,-73.9918126,"{'type': 'Point', 'coordinates': [-73.9918126, 40.742459]}",5
+114,5dcda2de82fcdd0bd00ff570,HItviews,40.733201,-73.991535,"{'type': 'Point', 'coordinates': [-73.991535, 40.733201]}",2
+115,5dcda3e682fcdd0bd0101b02,HItviews,40.733201,-73.991535,"{'type': 'Point', 'coordinates': [-73.991535, 40.733201]}",2
+116,5dcda2de82fcdd0bd00ff9b0,Saavn,40.743877,-73.98618,"{'type': 'Point', 'coordinates': [-73.98618, 40.743877]}",1
+117,5dcda2de82fcdd0bd00ff9b1,[212]Media,40.743877,-73.98618,"{'type': 'Point', 'coordinates': [-73.98618, 40.743877]}",1
+118,5dcda3e682fcdd0bd0101f42,Saavn,40.743877,-73.98618,"{'type': 'Point', 'coordinates': [-73.98618, 40.743877]}",1
+119,5dcda3e682fcdd0bd0101f43,[212]Media,40.743877,-73.98618,"{'type': 'Point', 'coordinates': [-73.98618, 40.743877]}",1
+120,5dcda2de82fcdd0bd00fee4a,Aditall,40.743165,-73.990853,"{'type': 'Point', 'coordinates': [-73.990853, 40.743165]}",1
+121,5dcda3e682fcdd0bd01013dc,Aditall,40.743165,-73.990853,"{'type': 'Point', 'coordinates': [-73.990853, 40.743165]}",1
+122,5dcda2de82fcdd0bd00fe20e,Tabbery,40.732525,-73.990076,"{'type': 'Point', 'coordinates': [-73.990076, 40.732525]}",1
+123,5dcda3e682fcdd0bd01007a0,Tabbery,40.732525,-73.990076,"{'type': 'Point', 'coordinates': [-73.990076, 40.732525]}",1
+124,5dcda2de82fcdd0bd00ff912,Navatar Group,40.733242,-73.991877,"{'type': 'Point', 'coordinates': [-73.991877, 40.733242]}",2
+125,5dcda3e682fcdd0bd0101ea4,Navatar Group,40.733242,-73.991877,"{'type': 'Point', 'coordinates': [-73.991877, 40.733242]}",2
+126,5dcda2de82fcdd0bd00fdde8,MediaTrust,40.743662,-73.984268,"{'type': 'Point', 'coordinates': [-73.984268, 40.743662]}",1
+127,5dcda3e682fcdd0bd010037a,MediaTrust,40.743662,-73.984268,"{'type': 'Point', 'coordinates': [-73.984268, 40.743662]}",1
+128,5dcda2de82fcdd0bd00ff32e,Ticketpredator,40.7438356,-73.9890149,"{'type': 'Point', 'coordinates': [-73.9890149, 40.7438356]}",1
+129,5dcda3e682fcdd0bd01018c0,Ticketpredator,40.7438356,-73.9890149,"{'type': 'Point', 'coordinates': [-73.9890149, 40.7438356]}",1
+130,5dcda2de82fcdd0bd00ffe22,FremantleMedia Ventures,40.7439449,-73.9855424,"{'type': 'Point', 'coordinates': [-73.9855424, 40.7439449]}",1
+131,5dcda3e682fcdd0bd01023b4,FremantleMedia Ventures,40.7439449,-73.9855424,"{'type': 'Point', 'coordinates': [-73.9855424, 40.7439449]}",1
+132,5dcda2de82fcdd0bd00fe340,Socialight,40.733386,-73.992189,"{'type': 'Point', 'coordinates': [-73.992189, 40.733386]}",1
+133,5dcda3e682fcdd0bd01008d2,Socialight,40.733386,-73.992189,"{'type': 'Point', 'coordinates': [-73.992189, 40.733386]}",1
+134,5dcda2de82fcdd0bd00fe8be,myJambi,40.74385,-73.98458,"{'type': 'Point', 'coordinates': [-73.98458, 40.74385]}",1
+135,5dcda2de82fcdd0bd00fea5e,myJambi,40.74385,-73.98458,"{'type': 'Point', 'coordinates': [-73.98458, 40.74385]}",1
+136,5dcda3e682fcdd0bd0100e50,myJambi,40.74385,-73.98458,"{'type': 'Point', 'coordinates': [-73.98458, 40.74385]}",1
+137,5dcda3e682fcdd0bd0100ff0,myJambi,40.74385,-73.98458,"{'type': 'Point', 'coordinates': [-73.98458, 40.74385]}",1
+138,5dcda2de82fcdd0bd00fdfb3,Reprise Media,40.734722,-73.994078,"{'type': 'Point', 'coordinates': [-73.994078, 40.734722]}",2
+139,5dcda3e682fcdd0bd0100545,Reprise Media,40.734722,-73.994078,"{'type': 'Point', 'coordinates': [-73.994078, 40.734722]}",2
+140,5dcda2de82fcdd0bd00fdb9b,Tumblr,40.743808,-73.983626,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",1
+141,5dcda2de82fcdd0bd00fdf0e,Next New Networks,40.743808,-73.983626,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",1
+142,5dcda3e682fcdd0bd010012d,Tumblr,40.743808,-73.983626,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",1
+143,5dcda3e682fcdd0bd010012e,Davidville,40.743808,-73.983626,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",1
+144,5dcda3e682fcdd0bd01004a0,Next New Networks,40.743808,-73.983626,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",1
+145,5dcda2de82fcdd0bd00fdb9c,Davidville,40.743808,-73.983626,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",1
+146,5dcda3e682fcdd0bd0101e00,Oyster Digital Media,40.738495,-73.9954473,"{'type': 'Point', 'coordinates': [-73.9954473, 40.738495]}",1
+147,5dcda2de82fcdd0bd00ff86e,Oyster Digital Media,40.738495,-73.9954473,"{'type': 'Point', 'coordinates': [-73.9954473, 40.738495]}",1
+148,5dcda2de82fcdd0bd00fe024,Bonobos,40.7384997,-73.9954585,"{'type': 'Point', 'coordinates': [-73.9954585, 40.7384997]}",1
+149,5dcda3e682fcdd0bd01005b6,Bonobos,40.7384997,-73.9954585,"{'type': 'Point', 'coordinates': [-73.9954585, 40.7384997]}",1
+150,5dcda3e682fcdd0bd0100700,BeenVerified,40.744402,-73.987949,"{'type': 'Point', 'coordinates': [-73.987949, 40.744402]}",1
+151,5dcda2de82fcdd0bd00fe16e,BeenVerified,40.744402,-73.987949,"{'type': 'Point', 'coordinates': [-73.987949, 40.744402]}",1
+152,5dcda2de82fcdd0bd00fee39,ZepFrog Corp,40.744201,-73.989505,"{'type': 'Point', 'coordinates': [-73.989505, 40.744201]}",1
+153,5dcda3e682fcdd0bd01013cb,ZepFrog Corp,40.744201,-73.989505,"{'type': 'Point', 'coordinates': [-73.989505, 40.744201]}",1
+154,5dcda2de82fcdd0bd00fdac6,BBE,40.7445343,-73.9874008,"{'type': 'Point', 'coordinates': [-73.9874008, 40.7445343]}",1
+155,5dcda3e682fcdd0bd0100058,BBE,40.7445343,-73.9874008,"{'type': 'Point', 'coordinates': [-73.9874008, 40.7445343]}",1
+156,5dcda2de82fcdd0bd00ff24c,Infor,40.740976,-73.9947229,"{'type': 'Point', 'coordinates': [-73.9947229, 40.740976]}",1
+157,5dcda3e682fcdd0bd01017de,Infor,40.740976,-73.9947229,"{'type': 'Point', 'coordinates': [-73.9947229, 40.740976]}",1
+158,5dcda2de82fcdd0bd00fe5a0,OkCupid,40.7368158,-73.9955426,"{'type': 'Point', 'coordinates': [-73.9955426, 40.7368158]}",1
+159,5dcda3e682fcdd0bd0100b32,OkCupid,40.7368158,-73.9955426,"{'type': 'Point', 'coordinates': [-73.9955426, 40.7368158]}",1
+160,5dcda2de82fcdd0bd00fee35,Yipit,40.744618,-73.987764,"{'type': 'Point', 'coordinates': [-73.987764, 40.744618]}",1
+161,5dcda2de82fcdd0bd00ff734,IntheGlo,40.744618,-73.987764,"{'type': 'Point', 'coordinates': [-73.987764, 40.744618]}",1
+162,5dcda3e682fcdd0bd01013c7,Yipit,40.744618,-73.987764,"{'type': 'Point', 'coordinates': [-73.987764, 40.744618]}",1
+163,5dcda3e682fcdd0bd0101cc6,IntheGlo,40.744618,-73.987764,"{'type': 'Point', 'coordinates': [-73.987764, 40.744618]}",1
+164,5dcda2de82fcdd0bd00fe374,Guru's Feet,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+165,5dcda2de82fcdd0bd00fe52f,ListensToYou,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+166,5dcda2de82fcdd0bd00fe8ad,GoldMic,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+167,5dcda2de82fcdd0bd00fea4d,GoldMic,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+168,5dcda3e682fcdd0bd0100906,Guru's Feet,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+169,5dcda3e682fcdd0bd0100e3f,GoldMic,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+170,5dcda3e682fcdd0bd0100ac1,ListensToYou,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+171,5dcda3e682fcdd0bd0100fdf,GoldMic,40.731392,-73.9884,"{'type': 'Point', 'coordinates': [-73.9884, 40.731392]}",1
+172,5dcda2de82fcdd0bd00fdab2,MIVA,40.733276,-73.9932793,"{'type': 'Point', 'coordinates': [-73.9932793, 40.733276]}",1
+173,5dcda2de82fcdd0bd00fe49d,Ziki,40.733276,-73.9932793,"{'type': 'Point', 'coordinates': [-73.9932793, 40.733276]}",1
+174,5dcda3e682fcdd0bd0100044,MIVA,40.733276,-73.9932793,"{'type': 'Point', 'coordinates': [-73.9932793, 40.733276]}",1
+175,5dcda3e682fcdd0bd0100a2f,Ziki,40.733276,-73.9932793,"{'type': 'Point', 'coordinates': [-73.9932793, 40.733276]}",1
+176,5dcda2de82fcdd0bd00fdf6e,Monitor110,40.732748,-73.992607,"{'type': 'Point', 'coordinates': [-73.992607, 40.732748]}",1
+177,5dcda3e682fcdd0bd0100500,Monitor110,40.732748,-73.992607,"{'type': 'Point', 'coordinates': [-73.992607, 40.732748]}",1
+178,5dcda2de82fcdd0bd00fe4c1,Gameloft,40.744034,-73.991034,"{'type': 'Point', 'coordinates': [-73.991034, 40.744034]}",1
+179,5dcda3e682fcdd0bd0100a53,Gameloft,40.744034,-73.991034,"{'type': 'Point', 'coordinates': [-73.991034, 40.744034]}",1
+180,5dcda2de82fcdd0bd00fed7d,For Your Imagination,40.744594,-73.989698,"{'type': 'Point', 'coordinates': [-73.989698, 40.744594]}",1
+181,5dcda3e682fcdd0bd010130f,For Your Imagination,40.744594,-73.989698,"{'type': 'Point', 'coordinates': [-73.989698, 40.744594]}",1
+182,5dcda2de82fcdd0bd00fde12,Inform Technologies,40.744639,-73.983963,"{'type': 'Point', 'coordinates': [-73.983963, 40.744639]}",1
+183,5dcda3e682fcdd0bd01003a4,Inform Technologies,40.744639,-73.983963,"{'type': 'Point', 'coordinates': [-73.983963, 40.744639]}",1
+184,5dcda2de82fcdd0bd00ffbe2,Zemoga,40.744697,-73.989947,"{'type': 'Point', 'coordinates': [-73.989947, 40.744697]}",4
+185,5dcda3e682fcdd0bd0102174,Zemoga,40.744697,-73.989947,"{'type': 'Point', 'coordinates': [-73.989947, 40.744697]}",4
+186,5dcda2de82fcdd0bd00fde00,8coupons,40.7431477,-73.9934288,"{'type': 'Point', 'coordinates': [-73.9934288, 40.7431477]}",1
+187,5dcda3e682fcdd0bd0100392,8coupons,40.7431477,-73.9934288,"{'type': 'Point', 'coordinates': [-73.9934288, 40.7431477]}",1
+188,5dcda2de82fcdd0bd00fee36,Next Jump,40.7451545,-73.9869549,"{'type': 'Point', 'coordinates': [-73.9869549, 40.7451545]}",1
+189,5dcda3e682fcdd0bd01013c8,Next Jump,40.7451545,-73.9869549,"{'type': 'Point', 'coordinates': [-73.9869549, 40.7451545]}",1
+190,5dcda3e682fcdd0bd0100306,stickK,40.744837,-73.983843,"{'type': 'Point', 'coordinates': [-73.983843, 40.744837]}",1
+191,5dcda2de82fcdd0bd00fdd74,stickK,40.744837,-73.983843,"{'type': 'Point', 'coordinates': [-73.983843, 40.744837]}",1
+192,5dcda2de82fcdd0bd00fe218,Subway Crush,40.743563,-73.993274,"{'type': 'Point', 'coordinates': [-73.993274, 40.743563]}",1
+193,5dcda2de82fcdd0bd00fe52b,Lolz,40.743563,-73.993274,"{'type': 'Point', 'coordinates': [-73.993274, 40.743563]}",1
+194,5dcda3e682fcdd0bd01007aa,Subway Crush,40.743563,-73.993274,"{'type': 'Point', 'coordinates': [-73.993274, 40.743563]}",1
+195,5dcda3e682fcdd0bd0100abd,Lolz,40.743563,-73.993274,"{'type': 'Point', 'coordinates': [-73.993274, 40.743563]}",1
+196,5dcda2de82fcdd0bd00ffd7f,StyleCaster,40.7450497,-73.9900984,"{'type': 'Point', 'coordinates': [-73.9900984, 40.7450497]}",1
+197,5dcda3e682fcdd0bd0102311,StyleCaster,40.7450497,-73.9900984,"{'type': 'Point', 'coordinates': [-73.9900984, 40.7450497]}",1
+198,5dcda2de82fcdd0bd00fe683,Urgent Career,40.745003,-73.983229,"{'type': 'Point', 'coordinates': [-73.983229, 40.745003]}",1
+199,5dcda3e682fcdd0bd0100c15,Urgent Career,40.745003,-73.983229,"{'type': 'Point', 'coordinates': [-73.983229, 40.745003]}",1
+200,5dcda2de82fcdd0bd00fda1d,AOL,40.7311317,-73.9919311,"{'type': 'Point', 'coordinates': [-73.9919311, 40.7311317]}",1
+201,5dcda2de82fcdd0bd00fe66b,Nielsen Online,40.7311317,-73.9919311,"{'type': 'Point', 'coordinates': [-73.9919311, 40.7311317]}",1
+202,5dcda3e682fcdd0bd0100bfd,Nielsen Online,40.7311317,-73.9919311,"{'type': 'Point', 'coordinates': [-73.9919311, 40.7311317]}",1
+203,5dcda3e682fcdd0bd00fffaf,AOL,40.7311317,-73.9919311,"{'type': 'Point', 'coordinates': [-73.9919311, 40.7311317]}",1
+204,5dcda3e682fcdd0bd0100022,Nielsen,40.731118,-73.991933,"{'type': 'Point', 'coordinates': [-73.991933, 40.731118]}",1
+205,5dcda2de82fcdd0bd00fda90,Nielsen,40.731118,-73.991933,"{'type': 'Point', 'coordinates': [-73.991933, 40.731118]}",1
+206,5dcda2de82fcdd0bd00fda91,Buzzmetrics,40.731118,-73.991933,"{'type': 'Point', 'coordinates': [-73.991933, 40.731118]}",1
+207,5dcda3e682fcdd0bd0100023,Buzzmetrics,40.731118,-73.991933,"{'type': 'Point', 'coordinates': [-73.991933, 40.731118]}",1
+208,5dcda3e682fcdd0bd01015ab,CyberSynchs,40.745534,-73.990033,"{'type': 'Point', 'coordinates': [-73.990033, 40.745534]}",1
+209,5dcda2de82fcdd0bd00ff019,CyberSynchs,40.745534,-73.990033,"{'type': 'Point', 'coordinates': [-73.990033, 40.745534]}",1
+210,5dcda3e682fcdd0bd01000f6,Mimeo,40.745216,-73.982807,"{'type': 'Point', 'coordinates': [-73.982807, 40.745216]}",1
+211,5dcda2de82fcdd0bd00fdb64,Mimeo,40.745216,-73.982807,"{'type': 'Point', 'coordinates': [-73.982807, 40.745216]}",1
+212,5dcda2de82fcdd0bd00fed7e,RateZip,40.731085,-73.992633,"{'type': 'Point', 'coordinates': [-73.992633, 40.731085]}",1
+213,5dcda3e682fcdd0bd0101310,RateZip,40.731085,-73.992633,"{'type': 'Point', 'coordinates': [-73.992633, 40.731085]}",1
+214,5dcda3e682fcdd0bd0101b74,Imaginova,40.7454971,-73.9826042,"{'type': 'Point', 'coordinates': [-73.9826042, 40.7454971]}",1
+215,5dcda2de82fcdd0bd00ff5e2,Imaginova,40.7454971,-73.9826042,"{'type': 'Point', 'coordinates': [-73.9826042, 40.7454971]}",1
+216,5dcda3e682fcdd0bd0100856,[x+1],40.7455068,-73.982624,"{'type': 'Point', 'coordinates': [-73.982624, 40.7455068]}",1
+217,5dcda3e682fcdd0bd0101894,[x+1],40.7455068,-73.982624,"{'type': 'Point', 'coordinates': [-73.982624, 40.7455068]}",1
+218,5dcda2de82fcdd0bd00fe2c4,[x+1],40.7455068,-73.982624,"{'type': 'Point', 'coordinates': [-73.982624, 40.7455068]}",1
+219,5dcda2de82fcdd0bd00ff302,[x+1],40.7455068,-73.982624,"{'type': 'Point', 'coordinates': [-73.982624, 40.7455068]}",1
+220,5dcda2de82fcdd0bd00ffc28,YCD Multimedia,40.745454,-73.991674,"{'type': 'Point', 'coordinates': [-73.991674, 40.745454]}",3
+221,5dcda3e682fcdd0bd01021ba,YCD Multimedia,40.745454,-73.991674,"{'type': 'Point', 'coordinates': [-73.991674, 40.745454]}",3
+222,5dcda2de82fcdd0bd00ff5bf,SwitchGames,40.7297485,-73.9867361,"{'type': 'Point', 'coordinates': [-73.9867361, 40.7297485]}",1
+223,5dcda3e682fcdd0bd0101b51,SwitchGames,40.7297485,-73.9867361,"{'type': 'Point', 'coordinates': [-73.9867361, 40.7297485]}",1
+224,5dcda3e682fcdd0bd010083a,findingDulcinea,40.7455579,-73.9823449,"{'type': 'Point', 'coordinates': [-73.9823449, 40.7455579]}",1
+225,5dcda2de82fcdd0bd00fe2a8,findingDulcinea,40.7455579,-73.9823449,"{'type': 'Point', 'coordinates': [-73.9823449, 40.7455579]}",1
+226,5dcda3e682fcdd0bd0100cb7,GEN ART,40.744943,-73.993179,"{'type': 'Point', 'coordinates': [-73.993179, 40.744943]}",1
+227,5dcda2de82fcdd0bd00fe725,GEN ART,40.744943,-73.993179,"{'type': 'Point', 'coordinates': [-73.993179, 40.744943]}",1
+228,5dcda2de82fcdd0bd00febe7,NFL,40.7457865,-73.9822265,"{'type': 'Point', 'coordinates': [-73.9822265, 40.7457865]}",1
+229,5dcda3e682fcdd0bd0101179,NFL,40.7457865,-73.9822265,"{'type': 'Point', 'coordinates': [-73.9822265, 40.7457865]}",1
+230,5dcda3e682fcdd0bd0100bd0,Xandros,40.746368,-73.983972,"{'type': 'Point', 'coordinates': [-73.983972, 40.746368]}",7
+231,5dcda2de82fcdd0bd00fe63e,Xandros,40.746368,-73.983972,"{'type': 'Point', 'coordinates': [-73.983972, 40.746368]}",7
+232,5dcda3e682fcdd0bd0100cc7,VISUALPLANT,40.738476,-73.998726,"{'type': 'Point', 'coordinates': [-73.998726, 40.738476]}",1
+233,5dcda2de82fcdd0bd00fe735,VISUALPLANT,40.738476,-73.998726,"{'type': 'Point', 'coordinates': [-73.998726, 40.738476]}",1
+234,5dcda2de82fcdd0bd00ff877,Catchafire,40.746417,-73.983171,"{'type': 'Point', 'coordinates': [-73.983171, 40.746417]}",1
+235,5dcda3e682fcdd0bd0101e09,Catchafire,40.746417,-73.983171,"{'type': 'Point', 'coordinates': [-73.983171, 40.746417]}",1
+236,5dcda2de82fcdd0bd00fde64,Right Media,40.74632,-73.982607,"{'type': 'Point', 'coordinates': [-73.982607, 40.74632]}",1
+237,5dcda3e682fcdd0bd01003f6,Right Media,40.74632,-73.982607,"{'type': 'Point', 'coordinates': [-73.982607, 40.74632]}",1
+238,5dcda2de82fcdd0bd00fe830,Conductor,40.746332,-73.982596,"{'type': 'Point', 'coordinates': [-73.982596, 40.746332]}",1
+239,5dcda3e682fcdd0bd0100dc2,Conductor,40.746332,-73.982596,"{'type': 'Point', 'coordinates': [-73.982596, 40.746332]}",1
+240,5dcda2de82fcdd0bd00fded1,Tripology,40.746883,-73.983969,"{'type': 'Point', 'coordinates': [-73.983969, 40.746883]}",1
+241,5dcda3e682fcdd0bd0100463,Tripology,40.746883,-73.983969,"{'type': 'Point', 'coordinates': [-73.983969, 40.746883]}",1
+242,5dcda2de82fcdd0bd00ffacd,Covet Shop,40.72874,-73.989324,"{'type': 'Point', 'coordinates': [-73.989324, 40.72874]}",1
+243,5dcda3e682fcdd0bd010205f,Covet Shop,40.72874,-73.989324,"{'type': 'Point', 'coordinates': [-73.989324, 40.72874]}",1
+244,5dcda3e682fcdd0bd010050f,Athena Archiver,40.747003,-73.991562,"{'type': 'Point', 'coordinates': [-73.991562, 40.747003]}",1
+245,5dcda2de82fcdd0bd00fdf7d,Athena Archiver,40.747003,-73.991562,"{'type': 'Point', 'coordinates': [-73.991562, 40.747003]}",1
+246,5dcda2de82fcdd0bd00fe7f6,Yellow SEO,40.747003,-73.991562,"{'type': 'Point', 'coordinates': [-73.991562, 40.747003]}",1
+247,5dcda3e682fcdd0bd0100d88,Yellow SEO,40.747003,-73.991562,"{'type': 'Point', 'coordinates': [-73.991562, 40.747003]}",1
+248,5dcda3e682fcdd0bd01020db,Ramp Up Tech,40.746514,-73.993035,"{'type': 'Point', 'coordinates': [-73.993035, 40.746514]}",1
+249,5dcda2de82fcdd0bd00ffb49,Ramp Up Tech,40.746514,-73.993035,"{'type': 'Point', 'coordinates': [-73.993035, 40.746514]}",1
+250,5dcda3e682fcdd0bd01009d2,TickerHound,40.728623,-73.991924,"{'type': 'Point', 'coordinates': [-73.991924, 40.728623]}",1
+251,5dcda2de82fcdd0bd00fe440,TickerHound,40.728623,-73.991924,"{'type': 'Point', 'coordinates': [-73.991924, 40.728623]}",1
+252,5dcda3e682fcdd0bd0100f8f,Samepoint,40.741441,-73.999675,"{'type': 'Point', 'coordinates': [-73.999675, 40.741441]}",1
+253,5dcda3e682fcdd0bd010112f,Samepoint,40.741441,-73.999675,"{'type': 'Point', 'coordinates': [-73.999675, 40.741441]}",1
+254,5dcda2de82fcdd0bd00feb9d,Samepoint,40.741441,-73.999675,"{'type': 'Point', 'coordinates': [-73.999675, 40.741441]}",1
+255,5dcda2de82fcdd0bd00fe9fd,Samepoint,40.741441,-73.999675,"{'type': 'Point', 'coordinates': [-73.999675, 40.741441]}",1
+256,5dcda2de82fcdd0bd00fda99,Burnlounge,40.746953,-73.993553,"{'type': 'Point', 'coordinates': [-73.993553, 40.746953]}",1
+257,5dcda3e682fcdd0bd010002b,Burnlounge,40.746953,-73.993553,"{'type': 'Point', 'coordinates': [-73.993553, 40.746953]}",1
+258,5dcda2de82fcdd0bd00fedde,TasteSpace,40.747819,-73.982544,"{'type': 'Point', 'coordinates': [-73.982544, 40.747819]}",1
+259,5dcda3e682fcdd0bd0101370,TasteSpace,40.747819,-73.982544,"{'type': 'Point', 'coordinates': [-73.982544, 40.747819]}",1
+260,5dcda3e682fcdd0bd0101e06,TrialX,40.7277434,-73.9893359,"{'type': 'Point', 'coordinates': [-73.9893359, 40.7277434]}",1
+261,5dcda2de82fcdd0bd00ff874,TrialX,40.7277434,-73.9893359,"{'type': 'Point', 'coordinates': [-73.9893359, 40.7277434]}",1
+262,5dcda3e682fcdd0bd0101c42,IrishCentral,40.74828,-73.989276,"{'type': 'Point', 'coordinates': [-73.989276, 40.74828]}",1
+263,5dcda2de82fcdd0bd00ff6b0,IrishCentral,40.74828,-73.989276,"{'type': 'Point', 'coordinates': [-73.989276, 40.74828]}",1
+264,5dcda3e682fcdd0bd01015e6,Novalsys,40.7283696,-73.9923918,"{'type': 'Point', 'coordinates': [-73.9923918, 40.7283696]}",1
+265,5dcda2de82fcdd0bd00ff054,Novalsys,40.7283696,-73.9923918,"{'type': 'Point', 'coordinates': [-73.9923918, 40.7283696]}",1
+266,5dcda2de82fcdd0bd00fe4a9,RRD USA,40.748342,-73.984606,"{'type': 'Point', 'coordinates': [-73.984606, 40.748342]}",1
+267,5dcda3e682fcdd0bd0100a3b,RRD USA,40.748342,-73.984606,"{'type': 'Point', 'coordinates': [-73.984606, 40.748342]}",1
+268,5dcda3e682fcdd0bd0101520,Carbonmade,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+269,5dcda3e682fcdd0bd01020af,Dice Holdings,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+270,5dcda3e682fcdd0bd0101b15,Portero,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+271,5dcda2de82fcdd0bd00fef8e,Carbonmade,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+272,5dcda3e682fcdd0bd0100202,Gilt Groupe,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+273,5dcda2de82fcdd0bd00ffb1d,Dice Holdings,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+274,5dcda2de82fcdd0bd00fdc70,Gilt Groupe,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+275,5dcda2de82fcdd0bd00ff583,Portero,40.74727,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.74727]}",1
+276,5dcda3e682fcdd0bd01020c4,Synesis IT,40.748873,-73.987106,"{'type': 'Point', 'coordinates': [-73.987106, 40.748873]}",2
+277,5dcda2de82fcdd0bd00ffb32,Synesis IT,40.748873,-73.987106,"{'type': 'Point', 'coordinates': [-73.987106, 40.748873]}",2
+278,5dcda2de82fcdd0bd00fe42b,FoxyMelody,40.74149,-74.000709,"{'type': 'Point', 'coordinates': [-74.000709, 40.74149]}",1
+279,5dcda3e682fcdd0bd01009bd,FoxyMelody,40.74149,-74.000709,"{'type': 'Point', 'coordinates': [-74.000709, 40.74149]}",1
+280,5dcda2de82fcdd0bd00fdd04,Qtrax,40.748641,-73.981947,"{'type': 'Point', 'coordinates': [-73.981947, 40.748641]}",1
+281,5dcda3e682fcdd0bd0100296,Qtrax,40.748641,-73.981947,"{'type': 'Point', 'coordinates': [-73.981947, 40.748641]}",1
+282,5dcda3e682fcdd0bd01005f3,WebMD,40.7410886,-74.0015261,"{'type': 'Point', 'coordinates': [-74.0015261, 40.7410886]}",1
+283,5dcda2de82fcdd0bd00fe061,WebMD,40.7410886,-74.0015261,"{'type': 'Point', 'coordinates': [-74.0015261, 40.7410886]}",1
+284,5dcda3e682fcdd0bd0100307,DoubleClick,40.741089,-74.001526,"{'type': 'Point', 'coordinates': [-74.001526, 40.741089]}",1
+285,5dcda2de82fcdd0bd00fdd75,DoubleClick,40.741089,-74.001526,"{'type': 'Point', 'coordinates': [-74.001526, 40.741089]}",1
+286,5dcda2de82fcdd0bd00ffa60,ArtNeighbor,40.7489381,-73.9918181,"{'type': 'Point', 'coordinates': [-73.9918181, 40.7489381]}",1
+287,5dcda3e682fcdd0bd0101ff2,ArtNeighbor,40.7489381,-73.9918181,"{'type': 'Point', 'coordinates': [-73.9918181, 40.7489381]}",1
+288,5dcda2de82fcdd0bd00ffb37,Strategist News,40.7489381,-73.9918181,"{'type': 'Point', 'coordinates': [-73.9918181, 40.7489381]}",1
+289,5dcda3e682fcdd0bd01020c9,Strategist News,40.7489381,-73.9918181,"{'type': 'Point', 'coordinates': [-73.9918181, 40.7489381]}",1
+290,5dcda2de82fcdd0bd00ff948,Live2Support,40.7488761,-73.9815793,"{'type': 'Point', 'coordinates': [-73.9815793, 40.7488761]}",1
+291,5dcda3e682fcdd0bd0101eda,Live2Support,40.7488761,-73.9815793,"{'type': 'Point', 'coordinates': [-73.9815793, 40.7488761]}",1
+292,5dcda3e682fcdd0bd01021f6,Extricom,40.72641,-73.984716,"{'type': 'Point', 'coordinates': [-73.984716, 40.72641]}",2
+293,5dcda2de82fcdd0bd00ffc64,Extricom,40.72641,-73.984716,"{'type': 'Point', 'coordinates': [-73.984716, 40.72641]}",2
+294,5dcda2de82fcdd0bd00fef21,BarterQuest,40.748634,-73.994203,"{'type': 'Point', 'coordinates': [-73.994203, 40.748634]}",1
+295,5dcda3e682fcdd0bd01014b3,BarterQuest,40.748634,-73.994203,"{'type': 'Point', 'coordinates': [-73.994203, 40.748634]}",1
+296,5dcda3e682fcdd0bd0100c5e,American Higher Education Development,40.749559,-73.991662,"{'type': 'Point', 'coordinates': [-73.991662, 40.749559]}",1
+297,5dcda2de82fcdd0bd00fe6cc,American Higher Education Development,40.749559,-73.991662,"{'type': 'Point', 'coordinates': [-73.991662, 40.749559]}",1
+298,5dcda3e682fcdd0bd0101298,Relegence,40.7495594,-73.9916617,"{'type': 'Point', 'coordinates': [-73.9916617, 40.7495594]}",1
+299,5dcda3e682fcdd0bd0101ae8,CollegeClickTV,40.7495594,-73.9916617,"{'type': 'Point', 'coordinates': [-73.9916617, 40.7495594]}",1
+300,5dcda2de82fcdd0bd00fed06,Relegence,40.7495594,-73.9916617,"{'type': 'Point', 'coordinates': [-73.9916617, 40.7495594]}",1
+301,5dcda2de82fcdd0bd00ff556,CollegeClickTV,40.7495594,-73.9916617,"{'type': 'Point', 'coordinates': [-73.9916617, 40.7495594]}",1
+302,5dcda3e682fcdd0bd01006d9,Social Median,40.74963,-73.982575,"{'type': 'Point', 'coordinates': [-73.982575, 40.74963]}",1
+303,5dcda2de82fcdd0bd00fe147,Social Median,40.74963,-73.982575,"{'type': 'Point', 'coordinates': [-73.982575, 40.74963]}",1
+304,5dcda3e682fcdd0bd010183f,UGO Entertainment,40.727216,-73.994797,"{'type': 'Point', 'coordinates': [-73.994797, 40.727216]}",1
+305,5dcda2de82fcdd0bd00ff2ad,UGO Entertainment,40.727216,-73.994797,"{'type': 'Point', 'coordinates': [-73.994797, 40.727216]}",1
+306,5dcda2de82fcdd0bd00ff647,Simulmedia,40.727216,-73.994797,"{'type': 'Point', 'coordinates': [-73.994797, 40.727216]}",1
+307,5dcda3e682fcdd0bd0101bd9,Simulmedia,40.727216,-73.994797,"{'type': 'Point', 'coordinates': [-73.994797, 40.727216]}",1
+308,5dcda2de82fcdd0bd00ff609,Crispy Gamer,40.750597,-73.985273,"{'type': 'Point', 'coordinates': [-73.985273, 40.750597]}",1
+309,5dcda3e682fcdd0bd0101b9b,Crispy Gamer,40.750597,-73.985273,"{'type': 'Point', 'coordinates': [-73.985273, 40.750597]}",1
+310,5dcda2de82fcdd0bd00feb69,Stylesight,40.730763,-74.000827,"{'type': 'Point', 'coordinates': [-74.000827, 40.730763]}",1
+311,5dcda3e682fcdd0bd0100f5b,Stylesight,40.730763,-74.000827,"{'type': 'Point', 'coordinates': [-74.000827, 40.730763]}",1
+312,5dcda3e682fcdd0bd01010fb,Stylesight,40.730763,-74.000827,"{'type': 'Point', 'coordinates': [-74.000827, 40.730763]}",1
+313,5dcda2de82fcdd0bd00fe9c9,Stylesight,40.730763,-74.000827,"{'type': 'Point', 'coordinates': [-74.000827, 40.730763]}",1
+314,5dcda3e682fcdd0bd010143d,WeTxt,40.740837,-74.003466,"{'type': 'Point', 'coordinates': [-74.003466, 40.740837]}",1
+315,5dcda2de82fcdd0bd00feeab,WeTxt,40.740837,-74.003466,"{'type': 'Point', 'coordinates': [-74.003466, 40.740837]}",1
+316,5dcda2de82fcdd0bd00fdc3d,Fotki,40.750823,-73.985833,"{'type': 'Point', 'coordinates': [-73.985833, 40.750823]}",1
+317,5dcda2de82fcdd0bd00fe722,Converseon,40.750823,-73.985833,"{'type': 'Point', 'coordinates': [-73.985833, 40.750823]}",1
+318,5dcda2de82fcdd0bd00ff99a,Simparel,40.750823,-73.985833,"{'type': 'Point', 'coordinates': [-73.985833, 40.750823]}",1
+319,5dcda3e682fcdd0bd01001cf,Fotki,40.750823,-73.985833,"{'type': 'Point', 'coordinates': [-73.985833, 40.750823]}",1
+320,5dcda3e682fcdd0bd0100cb4,Converseon,40.750823,-73.985833,"{'type': 'Point', 'coordinates': [-73.985833, 40.750823]}",1
+321,5dcda3e682fcdd0bd0101f2c,Simparel,40.750823,-73.985833,"{'type': 'Point', 'coordinates': [-73.985833, 40.750823]}",1
+322,5dcda2de82fcdd0bd00ff7cd,OneBigPlanet,40.7501311,-73.9812417,"{'type': 'Point', 'coordinates': [-73.9812417, 40.7501311]}",1
+323,5dcda3e682fcdd0bd0101d5f,OneBigPlanet,40.7501311,-73.9812417,"{'type': 'Point', 'coordinates': [-73.9812417, 40.7501311]}",1
+324,5dcda3e682fcdd0bd01009d4,Plentitube,40.749277,-73.978733,"{'type': 'Point', 'coordinates': [-73.978733, 40.749277]}",1
+325,5dcda2de82fcdd0bd00fe442,Plentitube,40.749277,-73.978733,"{'type': 'Point', 'coordinates': [-73.978733, 40.749277]}",1
+326,5dcda3e682fcdd0bd0100a5f,Marvel Entertainment,40.750576,-73.982713,"{'type': 'Point', 'coordinates': [-73.982713, 40.750576]}",2
+327,5dcda2de82fcdd0bd00fe4cd,Marvel Entertainment,40.750576,-73.982713,"{'type': 'Point', 'coordinates': [-73.982713, 40.750576]}",2
+328,5dcda2de82fcdd0bd00ff4a6,Music For Busy People,40.727763,-73.976169,"{'type': 'Point', 'coordinates': [-73.976169, 40.727763]}",1
+329,5dcda3e682fcdd0bd0101a38,Music For Busy People,40.727763,-73.976169,"{'type': 'Point', 'coordinates': [-73.976169, 40.727763]}",1
+330,5dcda2de82fcdd0bd00fdb39,Animoto,40.72948,-74.000195,"{'type': 'Point', 'coordinates': [-74.000195, 40.72948]}",2
+331,5dcda3e682fcdd0bd01000cb,Animoto,40.72948,-74.000195,"{'type': 'Point', 'coordinates': [-74.000195, 40.72948]}",2
+332,5dcda2de82fcdd0bd00fd957,Livestream,40.726155,-73.995625,"{'type': 'Point', 'coordinates': [-73.995625, 40.726155]}",1
+333,5dcda3e682fcdd0bd00ffee9,Livestream,40.726155,-73.995625,"{'type': 'Point', 'coordinates': [-73.995625, 40.726155]}",1
+334,5dcda2de82fcdd0bd00fd949,Meetup,40.72604,-73.995722,"{'type': 'Point', 'coordinates': [-73.995722, 40.72604]}",1
+335,5dcda3e682fcdd0bd00ffedb,Meetup,40.72604,-73.995722,"{'type': 'Point', 'coordinates': [-73.995722, 40.72604]}",1
+336,5dcda3e682fcdd0bd01012cd,Fabian Rossano Studio,40.740371,-74.004777,"{'type': 'Point', 'coordinates': [-74.004777, 40.740371]}",1
+337,5dcda2de82fcdd0bd00fed3b,Fabian Rossano Studio,40.740371,-74.004777,"{'type': 'Point', 'coordinates': [-74.004777, 40.740371]}",1
+338,5dcda2de82fcdd0bd00fd982,KickApps,40.7516611,-73.9843328,"{'type': 'Point', 'coordinates': [-73.9843328, 40.7516611]}",4
+339,5dcda3e682fcdd0bd00fff14,KickApps,40.7516611,-73.9843328,"{'type': 'Point', 'coordinates': [-73.9843328, 40.7516611]}",4
+340,5dcda2de82fcdd0bd00fe16c,Scanbuy,40.7512062,-73.9815333,"{'type': 'Point', 'coordinates': [-73.9815333, 40.7512062]}",1
+341,5dcda3e682fcdd0bd01006fe,Scanbuy,40.7512062,-73.9815333,"{'type': 'Point', 'coordinates': [-73.9815333, 40.7512062]}",1
+342,5dcda2de82fcdd0bd00ff3cd,Transit Treasure,40.74724,-73.973243,"{'type': 'Point', 'coordinates': [-73.973243, 40.74724]}",1
+343,5dcda3e682fcdd0bd010195f,Transit Treasure,40.74724,-73.973243,"{'type': 'Point', 'coordinates': [-73.973243, 40.74724]}",1
+344,5dcda2de82fcdd0bd00febd3,Gravityspot,40.724416,-73.991122,"{'type': 'Point', 'coordinates': [-73.991122, 40.724416]}",1
+345,5dcda3e682fcdd0bd0101165,Gravityspot,40.724416,-73.991122,"{'type': 'Point', 'coordinates': [-73.991122, 40.724416]}",1
+346,5dcda3e682fcdd0bd0101587,MLB Advanced Media,40.7418877,-74.0047466,"{'type': 'Point', 'coordinates': [-74.0047466, 40.7418877]}",1
+347,5dcda2de82fcdd0bd00feff5,MLB Advanced Media,40.7418877,-74.0047466,"{'type': 'Point', 'coordinates': [-74.0047466, 40.7418877]}",1
+348,5dcda2de82fcdd0bd00fe5e7,LivePerson,40.751969,-73.99031,"{'type': 'Point', 'coordinates': [-73.99031, 40.751969]}",4
+349,5dcda2de82fcdd0bd00ff851,Stream57,40.751969,-73.99031,"{'type': 'Point', 'coordinates': [-73.99031, 40.751969]}",2
+350,5dcda3e682fcdd0bd0100b79,LivePerson,40.751969,-73.99031,"{'type': 'Point', 'coordinates': [-73.99031, 40.751969]}",4
+351,5dcda3e682fcdd0bd0101de3,Stream57,40.751969,-73.99031,"{'type': 'Point', 'coordinates': [-73.99031, 40.751969]}",2
+352,5dcda2de82fcdd0bd00fe78f,StyleCard,40.738137,-74.0058,"{'type': 'Point', 'coordinates': [-74.0058, 40.738137]}",1
+353,5dcda3e682fcdd0bd0100d21,StyleCard,40.738137,-74.0058,"{'type': 'Point', 'coordinates': [-74.0058, 40.738137]}",1
+354,5dcda2de82fcdd0bd00fdd7f,Oddcast,40.752325,-73.988477,"{'type': 'Point', 'coordinates': [-73.988477, 40.752325]}",1
+355,5dcda3e682fcdd0bd0100311,Oddcast,40.752325,-73.988477,"{'type': 'Point', 'coordinates': [-73.988477, 40.752325]}",1
+356,5dcda2de82fcdd0bd00fde1c,Kluster,40.723652,-73.985281,"{'type': 'Point', 'coordinates': [-73.985281, 40.723652]}",1
+357,5dcda3e682fcdd0bd01003ae,Kluster,40.723652,-73.985281,"{'type': 'Point', 'coordinates': [-73.985281, 40.723652]}",1
+358,5dcda2de82fcdd0bd00fe008,Social Sauce,40.752143,-73.990675,"{'type': 'Point', 'coordinates': [-73.990675, 40.752143]}",1
+359,5dcda2de82fcdd0bd00ffe2a,Genesiz,40.752143,-73.990675,"{'type': 'Point', 'coordinates': [-73.990675, 40.752143]}",1
+360,5dcda3e682fcdd0bd010059a,Social Sauce,40.752143,-73.990675,"{'type': 'Point', 'coordinates': [-73.990675, 40.752143]}",1
+361,5dcda3e682fcdd0bd01023bc,Genesiz,40.752143,-73.990675,"{'type': 'Point', 'coordinates': [-73.990675, 40.752143]}",1
+362,5dcda2de82fcdd0bd00ff280,Eastmedia,40.752409,-73.988676,"{'type': 'Point', 'coordinates': [-73.988676, 40.752409]}",1
+363,5dcda3e682fcdd0bd0101812,Eastmedia,40.752409,-73.988676,"{'type': 'Point', 'coordinates': [-73.988676, 40.752409]}",1
+364,5dcda2de82fcdd0bd00fdc85,GoLark,40.7508,-73.996122,"{'type': 'Point', 'coordinates': [-73.996122, 40.7508]}",1
+365,5dcda3e682fcdd0bd0100217,GoLark,40.7508,-73.996122,"{'type': 'Point', 'coordinates': [-73.996122, 40.7508]}",1
+366,5dcda2de82fcdd0bd00fe6c5,GigMaven,40.724289,-73.980587,"{'type': 'Point', 'coordinates': [-73.980587, 40.724289]}",1
+367,5dcda3e682fcdd0bd0100c57,GigMaven,40.724289,-73.980587,"{'type': 'Point', 'coordinates': [-73.980587, 40.724289]}",1
+368,5dcda2de82fcdd0bd00ff328,PEX Card,40.752539,-73.987871,"{'type': 'Point', 'coordinates': [-73.987871, 40.752539]}",1
+369,5dcda3e682fcdd0bd01018ba,PEX Card,40.752539,-73.987871,"{'type': 'Point', 'coordinates': [-73.987871, 40.752539]}",1
+370,5dcda2de82fcdd0bd00fe065,Undertone,40.7509033,-73.9779759,"{'type': 'Point', 'coordinates': [-73.9779759, 40.7509033]}",6
+371,5dcda3e682fcdd0bd01005f7,Undertone,40.7509033,-73.9779759,"{'type': 'Point', 'coordinates': [-73.9779759, 40.7509033]}",6
+372,5dcda3e682fcdd0bd0101f67,WiFilez,40.734331,-74.005661,"{'type': 'Point', 'coordinates': [-74.005661, 40.734331]}",1
+373,5dcda2de82fcdd0bd00ff9d5,WiFilez,40.734331,-74.005661,"{'type': 'Point', 'coordinates': [-74.005661, 40.734331]}",1
+374,5dcda2de82fcdd0bd00ff640,TOMOS Software,40.7504268,-73.9768083,"{'type': 'Point', 'coordinates': [-73.9768083, 40.7504268]}",1
+375,5dcda3e682fcdd0bd0101bd2,TOMOS Software,40.7504268,-73.9768083,"{'type': 'Point', 'coordinates': [-73.9768083, 40.7504268]}",1
+376,5dcda2de82fcdd0bd00ffa06,YEAONAY,40.751234,-73.9952442,"{'type': 'Point', 'coordinates': [-73.9952442, 40.751234]}",1
+377,5dcda3e682fcdd0bd0101f98,YEAONAY,40.751234,-73.9952442,"{'type': 'Point', 'coordinates': [-73.9952442, 40.751234]}",1
+378,5dcda3e682fcdd0bd010007f,Behance,40.74406,-74.004592,"{'type': 'Point', 'coordinates': [-74.004592, 40.74406]}",1
+379,5dcda2de82fcdd0bd00fdaed,Behance,40.74406,-74.004592,"{'type': 'Point', 'coordinates': [-74.004592, 40.74406]}",1
+380,5dcda2de82fcdd0bd00fe623,Pluribo,40.751293,-73.978887,"{'type': 'Point', 'coordinates': [-73.978887, 40.751293]}",1
+381,5dcda2de82fcdd0bd00ff979,RavenPack,40.751293,-73.978887,"{'type': 'Point', 'coordinates': [-73.978887, 40.751293]}",2
+382,5dcda2de82fcdd0bd00ffe24,FinAnalytica,40.751293,-73.978887,"{'type': 'Point', 'coordinates': [-73.978887, 40.751293]}",1
+383,5dcda3e682fcdd0bd0100bb5,Pluribo,40.751293,-73.978887,"{'type': 'Point', 'coordinates': [-73.978887, 40.751293]}",1
+384,5dcda3e682fcdd0bd0101f0b,RavenPack,40.751293,-73.978887,"{'type': 'Point', 'coordinates': [-73.978887, 40.751293]}",2
+385,5dcda3e682fcdd0bd01023b6,FinAnalytica,40.751293,-73.978887,"{'type': 'Point', 'coordinates': [-73.978887, 40.751293]}",1
+386,5dcda3e682fcdd0bd01003e0,Answerology,40.735537,-74.006179,"{'type': 'Point', 'coordinates': [-74.006179, 40.735537]}",1
+387,5dcda2de82fcdd0bd00fde4e,Answerology,40.735537,-74.006179,"{'type': 'Point', 'coordinates': [-74.006179, 40.735537]}",1
+388,5dcda2de82fcdd0bd00ff52d,ScienCentral,40.752224,-73.99211,"{'type': 'Point', 'coordinates': [-73.99211, 40.752224]}",1
+389,5dcda3e682fcdd0bd0101abf,ScienCentral,40.752224,-73.99211,"{'type': 'Point', 'coordinates': [-73.99211, 40.752224]}",1
+390,5dcda2de82fcdd0bd00fe22d,onebluebrick,40.729286,-74.002808,"{'type': 'Point', 'coordinates': [-74.002808, 40.729286]}",1
+391,5dcda3e682fcdd0bd01007bf,onebluebrick,40.729286,-74.002808,"{'type': 'Point', 'coordinates': [-74.002808, 40.729286]}",1
+392,5dcda2de82fcdd0bd00fdac9,Thumbplay,40.725435,-73.997395,"{'type': 'Point', 'coordinates': [-73.997395, 40.725435]}",1
+393,5dcda3e682fcdd0bd010005b,Thumbplay,40.725435,-73.997395,"{'type': 'Point', 'coordinates': [-73.997395, 40.725435]}",1
+394,5dcda2de82fcdd0bd00fda61,Veotag,40.752957,-73.98546,"{'type': 'Point', 'coordinates': [-73.98546, 40.752957]}",1
+395,5dcda3e682fcdd0bd00ffff3,Veotag,40.752957,-73.98546,"{'type': 'Point', 'coordinates': [-73.98546, 40.752957]}",1
+396,5dcda2de82fcdd0bd00fe4f8,TradingUp Online,40.752404,-73.992544,"{'type': 'Point', 'coordinates': [-73.992544, 40.752404]}",1
+397,5dcda3e682fcdd0bd0100a8a,TradingUp Online,40.752404,-73.992544,"{'type': 'Point', 'coordinates': [-73.992544, 40.752404]}",1
+398,5dcda2de82fcdd0bd00fed49,Coleman Research Group,40.752953,-73.985025,"{'type': 'Point', 'coordinates': [-73.985025, 40.752953]}",1
+399,5dcda3e682fcdd0bd01012db,Coleman Research Group,40.752953,-73.985025,"{'type': 'Point', 'coordinates': [-73.985025, 40.752953]}",1
+400,5dcda2de82fcdd0bd00fe510,Blast Radius,40.725043,-73.997076,"{'type': 'Point', 'coordinates': [-73.997076, 40.725043]}",1
+401,5dcda3e682fcdd0bd0100aa2,Blast Radius,40.725043,-73.997076,"{'type': 'Point', 'coordinates': [-73.997076, 40.725043]}",1
+402,5dcda2de82fcdd0bd00ff0d6,Give Real,40.7250495,-73.9970912,"{'type': 'Point', 'coordinates': [-73.9970912, 40.7250495]}",1
+403,5dcda3e682fcdd0bd0100dbc,AppNexus,40.7250495,-73.9970912,"{'type': 'Point', 'coordinates': [-73.9970912, 40.7250495]}",2
+404,5dcda3e682fcdd0bd0101668,Give Real,40.7250495,-73.9970912,"{'type': 'Point', 'coordinates': [-73.9970912, 40.7250495]}",1
+405,5dcda2de82fcdd0bd00fe82a,AppNexus,40.7250495,-73.9970912,"{'type': 'Point', 'coordinates': [-73.9970912, 40.7250495]}",2
+406,5dcda2de82fcdd0bd00fdd94,GroundReport,40.725568,-73.998208,"{'type': 'Point', 'coordinates': [-73.998208, 40.725568]}",1
+407,5dcda2de82fcdd0bd00fe202,Xerpi,40.725568,-73.998208,"{'type': 'Point', 'coordinates': [-73.998208, 40.725568]}",1
+408,5dcda3e682fcdd0bd0100326,GroundReport,40.725568,-73.998208,"{'type': 'Point', 'coordinates': [-73.998208, 40.725568]}",1
+409,5dcda3e682fcdd0bd0100794,Xerpi,40.725568,-73.998208,"{'type': 'Point', 'coordinates': [-73.998208, 40.725568]}",1
+410,5dcda2de82fcdd0bd00fe0e3,Flugpo,40.752898,-73.990557,"{'type': 'Point', 'coordinates': [-73.990557, 40.752898]}",1
+411,5dcda3e682fcdd0bd0100675,Flugpo,40.752898,-73.990557,"{'type': 'Point', 'coordinates': [-73.990557, 40.752898]}",1
+412,5dcda2de82fcdd0bd00fe946,WPP,40.751513,-73.9779465,"{'type': 'Point', 'coordinates': [-73.9779465, 40.751513]}",2
+413,5dcda2de82fcdd0bd00feae6,WPP,40.751513,-73.9779465,"{'type': 'Point', 'coordinates': [-73.9779465, 40.751513]}",2
+414,5dcda3e682fcdd0bd0100ed8,WPP,40.751513,-73.9779465,"{'type': 'Point', 'coordinates': [-73.9779465, 40.751513]}",2
+415,5dcda3e682fcdd0bd0101078,WPP,40.751513,-73.9779465,"{'type': 'Point', 'coordinates': [-73.9779465, 40.751513]}",2
+416,5dcda2de82fcdd0bd00fdafb,LineUpNewYork,40.753202,-73.986771,"{'type': 'Point', 'coordinates': [-73.986771, 40.753202]}",1
+417,5dcda3e682fcdd0bd010008d,LineUpNewYork,40.753202,-73.986771,"{'type': 'Point', 'coordinates': [-73.986771, 40.753202]}",1
+418,5dcda2de82fcdd0bd00ff59d,HR Integrations,40.752078,-73.994785,"{'type': 'Point', 'coordinates': [-73.994785, 40.752078]}",1
+419,5dcda3e682fcdd0bd0101b2f,HR Integrations,40.752078,-73.994785,"{'type': 'Point', 'coordinates': [-73.994785, 40.752078]}",1
+420,5dcda2de82fcdd0bd00fdf9e,On Demand Books,40.724604,-73.996876,"{'type': 'Point', 'coordinates': [-73.996876, 40.724604]}",1
+421,5dcda2de82fcdd0bd00fe40f,appssavvy,40.724604,-73.996876,"{'type': 'Point', 'coordinates': [-73.996876, 40.724604]}",4
+422,5dcda2de82fcdd0bd00ff62b,Patch,40.724604,-73.996876,"{'type': 'Point', 'coordinates': [-73.996876, 40.724604]}",1
+423,5dcda3e682fcdd0bd0100530,On Demand Books,40.724604,-73.996876,"{'type': 'Point', 'coordinates': [-73.996876, 40.724604]}",1
+424,5dcda3e682fcdd0bd01009a1,appssavvy,40.724604,-73.996876,"{'type': 'Point', 'coordinates': [-73.996876, 40.724604]}",4
+425,5dcda3e682fcdd0bd0101bbd,Patch,40.724604,-73.996876,"{'type': 'Point', 'coordinates': [-73.996876, 40.724604]}",1
+426,5dcda2de82fcdd0bd00fe69b,Bitly,40.74034,-74.00721,"{'type': 'Point', 'coordinates': [-74.00721, 40.74034]}",1
+427,5dcda2de82fcdd0bd00ff76f,betaworks,40.74034,-74.00721,"{'type': 'Point', 'coordinates': [-74.00721, 40.74034]}",1
+428,5dcda3e682fcdd0bd0101d01,betaworks,40.74034,-74.00721,"{'type': 'Point', 'coordinates': [-74.00721, 40.74034]}",1
+429,5dcda3e682fcdd0bd0100c2d,Bitly,40.74034,-74.00721,"{'type': 'Point', 'coordinates': [-74.00721, 40.74034]}",1
+430,5dcda2de82fcdd0bd00fe42a,Epic Advertising,40.753403,-73.989189,"{'type': 'Point', 'coordinates': [-73.989189, 40.753403]}",4
+431,5dcda3e682fcdd0bd01009bc,Epic Advertising,40.753403,-73.989189,"{'type': 'Point', 'coordinates': [-73.989189, 40.753403]}",4
+432,5dcda2de82fcdd0bd00fda8f,Heavy,40.753385,-73.98962,"{'type': 'Point', 'coordinates': [-73.98962, 40.753385]}",1
+433,5dcda3e682fcdd0bd0100021,Heavy,40.753385,-73.98962,"{'type': 'Point', 'coordinates': [-73.98962, 40.753385]}",1
+434,5dcda3e682fcdd0bd01022bc,ChallengePost,40.7408042,-74.00717,"{'type': 'Point', 'coordinates': [-74.00717, 40.7408042]}",1
+435,5dcda2de82fcdd0bd00ffd2a,ChallengePost,40.7408042,-74.00717,"{'type': 'Point', 'coordinates': [-74.00717, 40.7408042]}",1
+436,5dcda2de82fcdd0bd00fdff4,Trendrr,40.724421,-73.997026,"{'type': 'Point', 'coordinates': [-73.997026, 40.724421]}",1
+437,5dcda3e682fcdd0bd0100586,Trendrr,40.724421,-73.997026,"{'type': 'Point', 'coordinates': [-73.997026, 40.724421]}",1
+438,5dcda2de82fcdd0bd00fdcde,yoonew,40.75362,-73.986557,"{'type': 'Point', 'coordinates': [-73.986557, 40.75362]}",1
+439,5dcda3e682fcdd0bd0100270,yoonew,40.75362,-73.986557,"{'type': 'Point', 'coordinates': [-73.986557, 40.75362]}",1
+440,5dcda3e682fcdd0bd01011ab,ecomii,40.743157,-74.006513,"{'type': 'Point', 'coordinates': [-74.006513, 40.743157]}",1
+441,5dcda2de82fcdd0bd00fec19,ecomii,40.743157,-74.006513,"{'type': 'Point', 'coordinates': [-74.006513, 40.743157]}",1
+442,5dcda2de82fcdd0bd00fedac,acerno,40.751363,-73.975857,"{'type': 'Point', 'coordinates': [-73.975857, 40.751363]}",2
+443,5dcda3e682fcdd0bd010133e,acerno,40.751363,-73.975857,"{'type': 'Point', 'coordinates': [-73.975857, 40.751363]}",2
+444,5dcda2de82fcdd0bd00ffcd7,Pipeline Financial Group,40.7524135,-73.9783331,"{'type': 'Point', 'coordinates': [-73.9783331, 40.7524135]}",1
+445,5dcda3e682fcdd0bd0102269,Pipeline Financial Group,40.7524135,-73.9783331,"{'type': 'Point', 'coordinates': [-73.9783331, 40.7524135]}",1
+446,5dcda2de82fcdd0bd00ff5d2,Undercurrent,40.723714,-73.9964376,"{'type': 'Point', 'coordinates': [-73.9964376, 40.723714]}",1
+447,5dcda3e682fcdd0bd0101b64,Undercurrent,40.723714,-73.9964376,"{'type': 'Point', 'coordinates': [-73.9964376, 40.723714]}",1
+448,5dcda2de82fcdd0bd00fdafd,Clickz,40.723703,-73.99644,"{'type': 'Point', 'coordinates': [-73.99644, 40.723703]}",1
+449,5dcda3e682fcdd0bd010008f,Clickz,40.723703,-73.99644,"{'type': 'Point', 'coordinates': [-73.99644, 40.723703]}",1
+450,5dcda2de82fcdd0bd00fecfd,Sailthru,40.738143,-74.008159,"{'type': 'Point', 'coordinates': [-74.008159, 40.738143]}",1
+451,5dcda3e682fcdd0bd010128f,Sailthru,40.738143,-74.008159,"{'type': 'Point', 'coordinates': [-74.008159, 40.738143]}",1
+452,5dcda2de82fcdd0bd00ff619,Tech Support 4 NYC,40.754142,-73.9883596,"{'type': 'Point', 'coordinates': [-73.9883596, 40.754142]}",1
+453,5dcda3e682fcdd0bd0101bab,Tech Support 4 NYC,40.754142,-73.9883596,"{'type': 'Point', 'coordinates': [-73.9883596, 40.754142]}",1
+454,5dcda2de82fcdd0bd00ff824,TMP Directional Marketing,40.7530803,-73.9790822,"{'type': 'Point', 'coordinates': [-73.9790822, 40.7530803]}",1
+455,5dcda3e682fcdd0bd0101db6,TMP Directional Marketing,40.7530803,-73.9790822,"{'type': 'Point', 'coordinates': [-73.9790822, 40.7530803]}",1
+456,5dcda2de82fcdd0bd00ff438,Traiana,40.752844,-73.978324,"{'type': 'Point', 'coordinates': [-73.978324, 40.752844]}",1
+457,5dcda3e682fcdd0bd01019ca,Traiana,40.752844,-73.978324,"{'type': 'Point', 'coordinates': [-73.978324, 40.752844]}",1
+458,5dcda2de82fcdd0bd00fe280,Facilitas,40.753931,-73.991123,"{'type': 'Point', 'coordinates': [-73.991123, 40.753931]}",1
+459,5dcda2de82fcdd0bd00fe9e5,AdSide,40.753931,-73.991123,"{'type': 'Point', 'coordinates': [-73.991123, 40.753931]}",1
+460,5dcda2de82fcdd0bd00feb85,AdSide,40.753931,-73.991123,"{'type': 'Point', 'coordinates': [-73.991123, 40.753931]}",1
+461,5dcda3e682fcdd0bd0100812,Facilitas,40.753931,-73.991123,"{'type': 'Point', 'coordinates': [-73.991123, 40.753931]}",1
+462,5dcda3e682fcdd0bd0100f77,AdSide,40.753931,-73.991123,"{'type': 'Point', 'coordinates': [-73.991123, 40.753931]}",1
+463,5dcda3e682fcdd0bd0101117,AdSide,40.753931,-73.991123,"{'type': 'Point', 'coordinates': [-73.991123, 40.753931]}",1
+464,5dcda2de82fcdd0bd00fe44d,Ladies Who Launch,40.753877,-73.991512,"{'type': 'Point', 'coordinates': [-73.991512, 40.753877]}",1
+465,5dcda3e682fcdd0bd01009df,Ladies Who Launch,40.753877,-73.991512,"{'type': 'Point', 'coordinates': [-73.991512, 40.753877]}",1
+466,5dcda2de82fcdd0bd00fe59c,LicenseStream,40.7309047,-74.006311,"{'type': 'Point', 'coordinates': [-74.006311, 40.7309047]}",1
+467,5dcda3e682fcdd0bd0100b2e,LicenseStream,40.7309047,-74.006311,"{'type': 'Point', 'coordinates': [-74.006311, 40.7309047]}",1
+468,5dcda2de82fcdd0bd00fe47e,Sense Networks,40.724647,-73.999636,"{'type': 'Point', 'coordinates': [-73.999636, 40.724647]}",1
+469,5dcda3e682fcdd0bd0100a10,Sense Networks,40.724647,-73.999636,"{'type': 'Point', 'coordinates': [-73.999636, 40.724647]}",1
+470,5dcda2de82fcdd0bd00fe08a,Odeo,40.753918,-73.981237,"{'type': 'Point', 'coordinates': [-73.981237, 40.753918]}",1
+471,5dcda3e682fcdd0bd010061c,Odeo,40.753918,-73.981237,"{'type': 'Point', 'coordinates': [-73.981237, 40.753918]}",1
+472,5dcda2de82fcdd0bd00fef19,Behind the Burner,40.753918,-73.981237,"{'type': 'Point', 'coordinates': [-73.981237, 40.753918]}",1
+473,5dcda3e682fcdd0bd01014ab,Behind the Burner,40.753918,-73.981237,"{'type': 'Point', 'coordinates': [-73.981237, 40.753918]}",1
+474,5dcda3e682fcdd0bd0101142,Petciety,40.753207,-73.995886,"{'type': 'Point', 'coordinates': [-73.995886, 40.753207]}",1
+475,5dcda2de82fcdd0bd00fea10,Petciety,40.753207,-73.995886,"{'type': 'Point', 'coordinates': [-73.995886, 40.753207]}",1
+476,5dcda2de82fcdd0bd00febb0,Petciety,40.753207,-73.995886,"{'type': 'Point', 'coordinates': [-73.995886, 40.753207]}",1
+477,5dcda3e682fcdd0bd0100fa2,Petciety,40.753207,-73.995886,"{'type': 'Point', 'coordinates': [-73.995886, 40.753207]}",1
+478,5dcda2de82fcdd0bd00fe4fc,Unicast,40.754699,-73.988834,"{'type': 'Point', 'coordinates': [-73.988834, 40.754699]}",4
+479,5dcda3e682fcdd0bd0100a8e,Unicast,40.754699,-73.988834,"{'type': 'Point', 'coordinates': [-73.988834, 40.754699]}",4
+480,5dcda2de82fcdd0bd00fe38e,Upoc,40.7543,-73.981847,"{'type': 'Point', 'coordinates': [-73.981847, 40.7543]}",1
+481,5dcda2de82fcdd0bd00fe932,Dada Entertainment,40.7543,-73.981847,"{'type': 'Point', 'coordinates': [-73.981847, 40.7543]}",1
+482,5dcda2de82fcdd0bd00fead2,Dada Entertainment,40.7543,-73.981847,"{'type': 'Point', 'coordinates': [-73.981847, 40.7543]}",1
+483,5dcda3e682fcdd0bd0100ec4,Dada Entertainment,40.7543,-73.981847,"{'type': 'Point', 'coordinates': [-73.981847, 40.7543]}",1
+484,5dcda3e682fcdd0bd0100920,Upoc,40.7543,-73.981847,"{'type': 'Point', 'coordinates': [-73.981847, 40.7543]}",1
+485,5dcda3e682fcdd0bd0101064,Dada Entertainment,40.7543,-73.981847,"{'type': 'Point', 'coordinates': [-73.981847, 40.7543]}",1
+486,5dcda2de82fcdd0bd00fe5c9,My Damn Channel,40.754762,-73.988543,"{'type': 'Point', 'coordinates': [-73.988543, 40.754762]}",2
+487,5dcda3e682fcdd0bd0100b5b,My Damn Channel,40.754762,-73.988543,"{'type': 'Point', 'coordinates': [-73.988543, 40.754762]}",2
+488,5dcda2de82fcdd0bd00fddf1,AdoTube,40.752672,-73.97593,"{'type': 'Point', 'coordinates': [-73.97593, 40.752672]}",3
+489,5dcda2de82fcdd0bd00ff59c,Major League Gaming,40.752672,-73.97593,"{'type': 'Point', 'coordinates': [-73.97593, 40.752672]}",1
+490,5dcda2de82fcdd0bd00ffa16,Secure Fortress,40.752672,-73.97593,"{'type': 'Point', 'coordinates': [-73.97593, 40.752672]}",3
+491,5dcda3e682fcdd0bd0100383,AdoTube,40.752672,-73.97593,"{'type': 'Point', 'coordinates': [-73.97593, 40.752672]}",3
+492,5dcda3e682fcdd0bd0101b2e,Major League Gaming,40.752672,-73.97593,"{'type': 'Point', 'coordinates': [-73.97593, 40.752672]}",1
+493,5dcda3e682fcdd0bd0101fa8,Secure Fortress,40.752672,-73.97593,"{'type': 'Point', 'coordinates': [-73.97593, 40.752672]}",3
+494,5dcda2de82fcdd0bd00ffc80,OpTier,40.754937,-73.985647,"{'type': 'Point', 'coordinates': [-73.985647, 40.754937]}",1
+495,5dcda3e682fcdd0bd0102212,OpTier,40.754937,-73.985647,"{'type': 'Point', 'coordinates': [-73.985647, 40.754937]}",1
+496,5dcda3e682fcdd0bd0100689,NEHST Studios,40.75451,-73.992193,"{'type': 'Point', 'coordinates': [-73.992193, 40.75451]}",1
+497,5dcda2de82fcdd0bd00fe0f7,NEHST Studios,40.75451,-73.992193,"{'type': 'Point', 'coordinates': [-73.992193, 40.75451]}",1
+498,5dcda2de82fcdd0bd00ffd43,Finsbury Solutions,40.75451,-73.992193,"{'type': 'Point', 'coordinates': [-73.992193, 40.75451]}",1
+499,5dcda3e682fcdd0bd01022d5,Finsbury Solutions,40.75451,-73.992193,"{'type': 'Point', 'coordinates': [-73.992193, 40.75451]}",1
+500,5dcda2de82fcdd0bd00fef4d,Interpublic Group,40.754683,-73.982666,"{'type': 'Point', 'coordinates': [-73.982666, 40.754683]}",1
+501,5dcda3e682fcdd0bd01014df,Interpublic Group,40.754683,-73.982666,"{'type': 'Point', 'coordinates': [-73.982666, 40.754683]}",1
+502,5dcda3e682fcdd0bd0100ac0,MYSTYLEPOST,40.754901,-73.989622,"{'type': 'Point', 'coordinates': [-73.989622, 40.754901]}",1
+503,5dcda2de82fcdd0bd00fe52e,MYSTYLEPOST,40.754901,-73.989622,"{'type': 'Point', 'coordinates': [-73.989622, 40.754901]}",1
+504,5dcda2de82fcdd0bd00ff966,TxVia,40.753881,-73.978852,"{'type': 'Point', 'coordinates': [-73.978852, 40.753881]}",1
+505,5dcda3e682fcdd0bd0101ef8,TxVia,40.753881,-73.978852,"{'type': 'Point', 'coordinates': [-73.978852, 40.753881]}",1
+506,5dcda2de82fcdd0bd00fe543,CPXi,40.7550708,-73.9869523,"{'type': 'Point', 'coordinates': [-73.9869523, 40.7550708]}",2
+507,5dcda3e682fcdd0bd0100ad5,CPXi,40.7550708,-73.9869523,"{'type': 'Point', 'coordinates': [-73.9869523, 40.7550708]}",2
+508,5dcda2de82fcdd0bd00ff0a9,SheZoom,40.7538639,-73.9785086,"{'type': 'Point', 'coordinates': [-73.9785086, 40.7538639]}",1
+509,5dcda3e682fcdd0bd010163b,SheZoom,40.7538639,-73.9785086,"{'type': 'Point', 'coordinates': [-73.9785086, 40.7538639]}",1
+510,5dcda2de82fcdd0bd00fdcae,Xanga,40.754698,-73.992152,"{'type': 'Point', 'coordinates': [-73.992152, 40.754698]}",1
+511,5dcda2de82fcdd0bd00fe1e4,Zoomabet,40.754698,-73.992152,"{'type': 'Point', 'coordinates': [-73.992152, 40.754698]}",1
+512,5dcda3e682fcdd0bd0100776,Zoomabet,40.754698,-73.992152,"{'type': 'Point', 'coordinates': [-73.992152, 40.754698]}",1
+513,5dcda3e682fcdd0bd0100240,Xanga,40.754698,-73.992152,"{'type': 'Point', 'coordinates': [-73.992152, 40.754698]}",1
+514,5dcda2de82fcdd0bd00fda1c,IAC,40.745172,-74.007646,"{'type': 'Point', 'coordinates': [-74.007646, 40.745172]}",1
+515,5dcda3e682fcdd0bd00fffae,IAC,40.745172,-74.007646,"{'type': 'Point', 'coordinates': [-74.007646, 40.745172]}",1
+516,5dcda3e682fcdd0bd01008da,Knewton,40.7310476,-74.0078134,"{'type': 'Point', 'coordinates': [-74.0078134, 40.7310476]}",1
+517,5dcda2de82fcdd0bd00fe348,Knewton,40.7310476,-74.0078134,"{'type': 'Point', 'coordinates': [-74.0078134, 40.7310476]}",1
+518,5dcda2de82fcdd0bd00ff8e1,Recyclebank,40.7310476,-74.0078134,"{'type': 'Point', 'coordinates': [-74.0078134, 40.7310476]}",1
+519,5dcda3e682fcdd0bd0101e73,Recyclebank,40.7310476,-74.0078134,"{'type': 'Point', 'coordinates': [-74.0078134, 40.7310476]}",1
+520,5dcda2de82fcdd0bd00fe56f,BountyJobs,40.754211,-73.97917,"{'type': 'Point', 'coordinates': [-73.97917, 40.754211]}",1
+521,5dcda3e682fcdd0bd0100b01,BountyJobs,40.754211,-73.97917,"{'type': 'Point', 'coordinates': [-73.97917, 40.754211]}",1
+522,5dcda3e682fcdd0bd0100146,Vimeo,40.7453721,-74.0078293,"{'type': 'Point', 'coordinates': [-74.0078293, 40.7453721]}",1
+523,5dcda2de82fcdd0bd00fdbb4,Vimeo,40.7453721,-74.0078293,"{'type': 'Point', 'coordinates': [-74.0078293, 40.7453721]}",1
+524,5dcda2de82fcdd0bd00ff0e3,Napier Partners,40.7543489,-73.9789451,"{'type': 'Point', 'coordinates': [-73.9789451, 40.7543489]}",1
+525,5dcda3e682fcdd0bd0101675,Napier Partners,40.7543489,-73.9789451,"{'type': 'Point', 'coordinates': [-73.9789451, 40.7543489]}",1
+526,5dcda2de82fcdd0bd00fe80e,XB Labs,40.755329,-73.991605,"{'type': 'Point', 'coordinates': [-73.991605, 40.755329]}",1
+527,5dcda3e682fcdd0bd0100da0,XB Labs,40.755329,-73.991605,"{'type': 'Point', 'coordinates': [-73.991605, 40.755329]}",1
+528,5dcda2de82fcdd0bd00fe7ea,Admeld,40.755253,-73.992152,"{'type': 'Point', 'coordinates': [-73.992152, 40.755253]}",3
+529,5dcda3e682fcdd0bd0100d7c,Admeld,40.755253,-73.992152,"{'type': 'Point', 'coordinates': [-73.992152, 40.755253]}",3
+530,5dcda2de82fcdd0bd00febfd,GroundRez,40.722118,-73.9973,"{'type': 'Point', 'coordinates': [-73.9973, 40.722118]}",1
+531,5dcda3e682fcdd0bd010118f,GroundRez,40.722118,-73.9973,"{'type': 'Point', 'coordinates': [-73.9973, 40.722118]}",1
+532,5dcda2de82fcdd0bd00ffd99,Integreon,40.751804,-73.972365,"{'type': 'Point', 'coordinates': [-73.972365, 40.751804]}",1
+533,5dcda2de82fcdd0bd00ffe5a,Datum Legal,40.751804,-73.972365,"{'type': 'Point', 'coordinates': [-73.972365, 40.751804]}",1
+534,5dcda3e682fcdd0bd010232b,Integreon,40.751804,-73.972365,"{'type': 'Point', 'coordinates': [-73.972365, 40.751804]}",1
+535,5dcda3e682fcdd0bd01023ec,Datum Legal,40.751804,-73.972365,"{'type': 'Point', 'coordinates': [-73.972365, 40.751804]}",1
+536,5dcda2de82fcdd0bd00fd95a,Pando Networks,40.722655,-73.99873,"{'type': 'Point', 'coordinates': [-73.99873, 40.722655]}",1
+537,5dcda2de82fcdd0bd00fdeb2,Innovid,40.722655,-73.99873,"{'type': 'Point', 'coordinates': [-73.99873, 40.722655]}",2
+538,5dcda3e682fcdd0bd00ffeec,Pando Networks,40.722655,-73.99873,"{'type': 'Point', 'coordinates': [-73.99873, 40.722655]}",1
+539,5dcda3e682fcdd0bd0100444,Innovid,40.722655,-73.99873,"{'type': 'Point', 'coordinates': [-73.99873, 40.722655]}",2
+540,5dcda2de82fcdd0bd00fe0f4,Associated Press,40.7535,-73.998615,"{'type': 'Point', 'coordinates': [-73.998615, 40.7535]}",1
+541,5dcda3e682fcdd0bd0100686,Associated Press,40.7535,-73.998615,"{'type': 'Point', 'coordinates': [-73.998615, 40.7535]}",1
+542,5dcda2de82fcdd0bd00fde78,The Media Kitchen,40.726637,-74.005177,"{'type': 'Point', 'coordinates': [-74.005177, 40.726637]}",1
+543,5dcda3e682fcdd0bd010040a,The Media Kitchen,40.726637,-74.005177,"{'type': 'Point', 'coordinates': [-74.005177, 40.726637]}",1
+544,5dcda2de82fcdd0bd00fedda,Varick Media Management,40.726637,-74.005177,"{'type': 'Point', 'coordinates': [-74.005177, 40.726637]}",1
+545,5dcda3e682fcdd0bd010136c,Varick Media Management,40.726637,-74.005177,"{'type': 'Point', 'coordinates': [-74.005177, 40.726637]}",1
+546,5dcda2de82fcdd0bd00fe240,GoMobo,40.723839,-74.0013669,"{'type': 'Point', 'coordinates': [-74.0013669, 40.723839]}",1
+547,5dcda3e682fcdd0bd01007d2,GoMobo,40.723839,-74.0013669,"{'type': 'Point', 'coordinates': [-74.0013669, 40.723839]}",1
+548,5dcda3e682fcdd0bd0102216,Taridium VoIP,40.732225,-74.009311,"{'type': 'Point', 'coordinates': [-74.009311, 40.732225]}",1
+549,5dcda2de82fcdd0bd00ffc84,Taridium VoIP,40.732225,-74.009311,"{'type': 'Point', 'coordinates': [-74.009311, 40.732225]}",1
+550,5dcda3e682fcdd0bd01018cd,WeMix,40.7554379,-73.9815358,"{'type': 'Point', 'coordinates': [-73.9815358, 40.7554379]}",1
+551,5dcda2de82fcdd0bd00ff33b,WeMix,40.7554379,-73.9815358,"{'type': 'Point', 'coordinates': [-73.9815358, 40.7554379]}",1
+552,5dcda2de82fcdd0bd00fed37,Kiwibox,40.755243,-73.9935,"{'type': 'Point', 'coordinates': [-73.9935, 40.755243]}",1
+553,5dcda3e682fcdd0bd01012c9,Kiwibox,40.755243,-73.9935,"{'type': 'Point', 'coordinates': [-73.9935, 40.755243]}",1
+554,5dcda2de82fcdd0bd00fe020,Wakozi,40.755409,-73.992706,"{'type': 'Point', 'coordinates': [-73.992706, 40.755409]}",1
+555,5dcda3e682fcdd0bd01005b2,Wakozi,40.755409,-73.992706,"{'type': 'Point', 'coordinates': [-73.992706, 40.755409]}",1
+556,5dcda2de82fcdd0bd00fdc86,WeShow,40.752516,-73.973072,"{'type': 'Point', 'coordinates': [-73.973072, 40.752516]}",1
+557,5dcda3e682fcdd0bd0100218,WeShow,40.752516,-73.973072,"{'type': 'Point', 'coordinates': [-73.973072, 40.752516]}",1
+558,5dcda2de82fcdd0bd00ff2a1,Pictela,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+559,5dcda2de82fcdd0bd00ff4a4,The Talk Market,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+560,5dcda2de82fcdd0bd00ff195,Fotohoo,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+561,5dcda2de82fcdd0bd00ff6e7,UniversityJunction,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+562,5dcda2de82fcdd0bd00ff6fd,RefSeek,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+563,5dcda2de82fcdd0bd00ff766,Arisey,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+564,5dcda2de82fcdd0bd00ff8d7,Delivr,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+565,5dcda2de82fcdd0bd00ff63f,Muckety,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+566,5dcda2de82fcdd0bd00ffa0c,Yoostar,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+567,5dcda2de82fcdd0bd00ffa74,GameGround,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+568,5dcda2de82fcdd0bd00ffad0,Udorse,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+569,5dcda2de82fcdd0bd00ffb43,Primospot,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+570,5dcda2de82fcdd0bd00ffc6b,Palyon Medical,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+571,5dcda2de82fcdd0bd00ffdeb,CPower,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+572,5dcda2de82fcdd0bd00ffe7f,Conversition,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+573,5dcda3e682fcdd0bd0100c2a,Medialets,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+574,5dcda3e682fcdd0bd0100eea,Papervitamins,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+575,5dcda3e682fcdd0bd0100f24,artandseek,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+576,5dcda3e682fcdd0bd010108a,Papervitamins,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+577,5dcda3e682fcdd0bd01010c4,artandseek,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+578,5dcda3e682fcdd0bd0101524,PlaceVine,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+579,5dcda3e682fcdd0bd0101552,Odiogo,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+580,5dcda3e682fcdd0bd010158a,People Capital,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+581,5dcda3e682fcdd0bd0101642,Livekick,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+582,5dcda3e682fcdd0bd0101727,Fotohoo,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+583,5dcda3e682fcdd0bd0101833,Pictela,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+584,5dcda3e682fcdd0bd010178d,Dragonfly,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+585,5dcda3e682fcdd0bd0101a36,The Talk Market,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+586,5dcda3e682fcdd0bd0101bcf,Wee Web,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+587,5dcda3e682fcdd0bd0101bd1,Muckety,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+588,5dcda3e682fcdd0bd0101bd5,Hirshorn Zuckerman Design Group,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+589,5dcda3e682fcdd0bd0101c79,UniversityJunction,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+590,5dcda2de82fcdd0bd00ff643,Hirshorn Zuckerman Design Group,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+591,5dcda3e682fcdd0bd0101c8f,RefSeek,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+592,5dcda3e682fcdd0bd0101cf8,Arisey,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+593,5dcda3e682fcdd0bd0101e69,Delivr,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+594,5dcda3e682fcdd0bd0101f9e,Yoostar,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+595,5dcda2de82fcdd0bd00feff8,People Capital,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+596,5dcda3e682fcdd0bd0102006,GameGround,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+597,5dcda3e682fcdd0bd0102062,Udorse,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+598,5dcda3e682fcdd0bd01020d5,Primospot,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+599,5dcda2de82fcdd0bd00ff0b0,Livekick,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+600,5dcda3e682fcdd0bd01021fd,Palyon Medical,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+601,5dcda3e682fcdd0bd010237d,CPower,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+602,5dcda2de82fcdd0bd00fe698,Medialets,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+603,5dcda3e682fcdd0bd0102411,Conversition,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+604,5dcda2de82fcdd0bd00fe958,Papervitamins,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+605,5dcda2de82fcdd0bd00fe992,artandseek,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+606,5dcda2de82fcdd0bd00feaf8,Papervitamins,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+607,5dcda2de82fcdd0bd00ff63d,Wee Web,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+608,5dcda2de82fcdd0bd00feb32,artandseek,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+609,5dcda2de82fcdd0bd00fef92,PlaceVine,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",2
+610,5dcda2de82fcdd0bd00fefc0,Odiogo,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+611,5dcda2de82fcdd0bd00ff1fb,Dragonfly,40.756054,-73.986951,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",1
+612,5dcda2de82fcdd0bd00fda64,KIT digital,40.751816,-73.971655,"{'type': 'Point', 'coordinates': [-73.971655, 40.751816]}",10
+613,5dcda3e682fcdd0bd00ffff6,KIT digital,40.751816,-73.971655,"{'type': 'Point', 'coordinates': [-73.971655, 40.751816]}",10
+614,5dcda2de82fcdd0bd00ffa61,Real Time Content,40.755959,-73.990286,"{'type': 'Point', 'coordinates': [-73.990286, 40.755959]}",3
+615,5dcda3e682fcdd0bd0101ff3,Real Time Content,40.755959,-73.990286,"{'type': 'Point', 'coordinates': [-73.990286, 40.755959]}",3
+616,5dcda3e682fcdd0bd0102196,Connectiva Systems,40.755531,-73.980861,"{'type': 'Point', 'coordinates': [-73.980861, 40.755531]}",1
+617,5dcda2de82fcdd0bd00ffc04,Connectiva Systems,40.755531,-73.980861,"{'type': 'Point', 'coordinates': [-73.980861, 40.755531]}",1
+618,5dcda2de82fcdd0bd00fdc81,ideeli,40.755978,-73.990396,"{'type': 'Point', 'coordinates': [-73.990396, 40.755978]}",1
+619,5dcda3e682fcdd0bd0100213,ideeli,40.755978,-73.990396,"{'type': 'Point', 'coordinates': [-73.990396, 40.755978]}",1
+620,5dcda2de82fcdd0bd00fdbcd,Peer39,40.755446,-73.980246,"{'type': 'Point', 'coordinates': [-73.980246, 40.755446]}",2
+621,5dcda3e682fcdd0bd010015f,Peer39,40.755446,-73.980246,"{'type': 'Point', 'coordinates': [-73.980246, 40.755446]}",2
+622,5dcda2de82fcdd0bd00fe51d,Soundwalk,40.722266,-73.999044,"{'type': 'Point', 'coordinates': [-73.999044, 40.722266]}",1
+623,5dcda3e682fcdd0bd0100aaf,Soundwalk,40.722266,-73.999044,"{'type': 'Point', 'coordinates': [-73.999044, 40.722266]}",1
+624,5dcda2de82fcdd0bd00ffb50,Logicworks,40.7254129,-74.0045549,"{'type': 'Point', 'coordinates': [-74.0045549, 40.7254129]}",1
+625,5dcda3e682fcdd0bd01020e2,Logicworks,40.7254129,-74.0045549,"{'type': 'Point', 'coordinates': [-74.0045549, 40.7254129]}",1
+626,5dcda2de82fcdd0bd00fdae4,OMGPOP,40.723384,-74.001704,"{'type': 'Point', 'coordinates': [-74.001704, 40.723384]}",2
+627,5dcda3e682fcdd0bd0100076,OMGPOP,40.723384,-74.001704,"{'type': 'Point', 'coordinates': [-74.001704, 40.723384]}",2
+628,5dcda2de82fcdd0bd00fe940,Thomson Reuters,40.7564318,-73.9871847,"{'type': 'Point', 'coordinates': [-73.9871847, 40.7564318]}",1
+629,5dcda3e682fcdd0bd0100ed2,Thomson Reuters,40.7564318,-73.9871847,"{'type': 'Point', 'coordinates': [-73.9871847, 40.7564318]}",1
+630,5dcda3e682fcdd0bd0101072,Thomson Reuters,40.7564318,-73.9871847,"{'type': 'Point', 'coordinates': [-73.9871847, 40.7564318]}",1
+631,5dcda2de82fcdd0bd00feae0,Thomson Reuters,40.7564318,-73.9871847,"{'type': 'Point', 'coordinates': [-73.9871847, 40.7564318]}",1
+632,5dcda2de82fcdd0bd00fe6ee,RMG Connect,40.753772,-73.974353,"{'type': 'Point', 'coordinates': [-73.974353, 40.753772]}",1
+633,5dcda3e682fcdd0bd0100c80,RMG Connect,40.753772,-73.974353,"{'type': 'Point', 'coordinates': [-73.974353, 40.753772]}",1
+634,5dcda2de82fcdd0bd00ff69b,33Across,40.75406,-73.999003,"{'type': 'Point', 'coordinates': [-73.999003, 40.75406]}",1
+635,5dcda3e682fcdd0bd0101c2d,33Across,40.75406,-73.999003,"{'type': 'Point', 'coordinates': [-73.999003, 40.75406]}",1
+636,5dcda2de82fcdd0bd00fe113,Visible World,40.75406,-73.999003,"{'type': 'Point', 'coordinates': [-73.999003, 40.75406]}",1
+637,5dcda3e682fcdd0bd01006a5,Visible World,40.75406,-73.999003,"{'type': 'Point', 'coordinates': [-73.999003, 40.75406]}",1
+638,5dcda2de82fcdd0bd00ffe7a,ALOT,40.72616,-74.006023,"{'type': 'Point', 'coordinates': [-74.006023, 40.72616]}",1
+639,5dcda2de82fcdd0bd00fe642,Spill,40.72616,-74.006023,"{'type': 'Point', 'coordinates': [-74.006023, 40.72616]}",1
+640,5dcda2de82fcdd0bd00ffe78,Vertro,40.72616,-74.006023,"{'type': 'Point', 'coordinates': [-74.006023, 40.72616]}",2
+641,5dcda3e682fcdd0bd0100bd4,Spill,40.72616,-74.006023,"{'type': 'Point', 'coordinates': [-74.006023, 40.72616]}",1
+642,5dcda3e682fcdd0bd010240c,ALOT,40.72616,-74.006023,"{'type': 'Point', 'coordinates': [-74.006023, 40.72616]}",1
+643,5dcda3e682fcdd0bd010240a,Vertro,40.72616,-74.006023,"{'type': 'Point', 'coordinates': [-74.006023, 40.72616]}",2
+644,5dcda2de82fcdd0bd00ff384,Symagio,40.725107,-74.00492,"{'type': 'Point', 'coordinates': [-74.00492, 40.725107]}",1
+645,5dcda3e682fcdd0bd0101916,Symagio,40.725107,-74.00492,"{'type': 'Point', 'coordinates': [-74.00492, 40.725107]}",1
+646,5dcda2de82fcdd0bd00fdd69,HeadStrong Brain Gym,40.75033,-73.968173,"{'type': 'Point', 'coordinates': [-73.968173, 40.75033]}",1
+647,5dcda3e682fcdd0bd01002fb,HeadStrong Brain Gym,40.75033,-73.968173,"{'type': 'Point', 'coordinates': [-73.968173, 40.75033]}",1
+648,5dcda3e682fcdd0bd0100337,TheLadders,40.725883,-74.006196,"{'type': 'Point', 'coordinates': [-74.006196, 40.725883]}",1
+649,5dcda2de82fcdd0bd00fdda5,TheLadders,40.725883,-74.006196,"{'type': 'Point', 'coordinates': [-74.006196, 40.725883]}",1
+650,5dcda3e682fcdd0bd0100472,Giant Realm,40.7566658,-73.9827553,"{'type': 'Point', 'coordinates': [-73.9827553, 40.7566658]}",1
+651,5dcda2de82fcdd0bd00fdee0,Giant Realm,40.7566658,-73.9827553,"{'type': 'Point', 'coordinates': [-73.9827553, 40.7566658]}",1
+652,5dcda2de82fcdd0bd00ff0b9,Arc90,40.7534549,-73.9724886,"{'type': 'Point', 'coordinates': [-73.9724886, 40.7534549]}",1
+653,5dcda3e682fcdd0bd010164b,Arc90,40.7534549,-73.9724886,"{'type': 'Point', 'coordinates': [-73.9724886, 40.7534549]}",1
+654,5dcda2de82fcdd0bd00ff46a,Jobulous,40.7464969,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7464969]}",2
+655,5dcda3e682fcdd0bd00ffec7,Joost,40.7464969,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7464969]}",1
+656,5dcda3e682fcdd0bd01023b1,Film Annex,40.7464969,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7464969]}",1
+657,5dcda2de82fcdd0bd00ffe1f,Film Annex,40.7464969,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7464969]}",1
+658,5dcda3e682fcdd0bd01019fc,Jobulous,40.7464969,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7464969]}",2
+659,5dcda2de82fcdd0bd00fd935,Joost,40.7464969,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7464969]}",1
+660,5dcda2de82fcdd0bd00fef76,Homethinking,40.750567,-73.968145,"{'type': 'Point', 'coordinates': [-73.968145, 40.750567]}",1
+661,5dcda3e682fcdd0bd0101508,Homethinking,40.750567,-73.968145,"{'type': 'Point', 'coordinates': [-73.968145, 40.750567]}",1
+662,5dcda3e682fcdd0bd01014be,Tzunami SharePoint migration,40.754608,-73.974674,"{'type': 'Point', 'coordinates': [-73.974674, 40.754608]}",1
+663,5dcda2de82fcdd0bd00fef2c,Tzunami SharePoint migration,40.754608,-73.974674,"{'type': 'Point', 'coordinates': [-73.974674, 40.754608]}",1
+664,5dcda3e682fcdd0bd010183b,Echospin,40.727107,-74.007655,"{'type': 'Point', 'coordinates': [-74.007655, 40.727107]}",1
+665,5dcda2de82fcdd0bd00ff2a9,Echospin,40.727107,-74.007655,"{'type': 'Point', 'coordinates': [-74.007655, 40.727107]}",1
+666,5dcda2de82fcdd0bd00fdc3f,SeeToo,40.755861,-73.996272,"{'type': 'Point', 'coordinates': [-73.996272, 40.755861]}",1
+667,5dcda3e682fcdd0bd01001d1,SeeToo,40.755861,-73.996272,"{'type': 'Point', 'coordinates': [-73.996272, 40.755861]}",1
+668,5dcda2de82fcdd0bd00ff38b,Cinelan,40.720699,-73.998107,"{'type': 'Point', 'coordinates': [-73.998107, 40.720699]}",1
+669,5dcda3e682fcdd0bd010191d,Cinelan,40.720699,-73.998107,"{'type': 'Point', 'coordinates': [-73.998107, 40.720699]}",1
+670,5dcda2de82fcdd0bd00ffb38,Terra-Gen Power,40.7562295,-73.9788753,"{'type': 'Point', 'coordinates': [-73.9788753, 40.7562295]}",1
+671,5dcda3e682fcdd0bd01020ca,Terra-Gen Power,40.7562295,-73.9788753,"{'type': 'Point', 'coordinates': [-73.9788753, 40.7562295]}",1
+672,5dcda3e682fcdd0bd0101ff6,MyPRGenie,40.757375,-73.986005,"{'type': 'Point', 'coordinates': [-73.986005, 40.757375]}",1
+673,5dcda2de82fcdd0bd00ffa64,MyPRGenie,40.757375,-73.986005,"{'type': 'Point', 'coordinates': [-73.986005, 40.757375]}",1
+674,5dcda2de82fcdd0bd00ff717,Kapitall,40.720391,-73.9983139,"{'type': 'Point', 'coordinates': [-73.9983139, 40.720391]}",1
+675,5dcda3e682fcdd0bd0101ca9,Kapitall,40.720391,-73.9983139,"{'type': 'Point', 'coordinates': [-73.9983139, 40.720391]}",1
+676,5dcda2de82fcdd0bd00fdd4c,SpaceTime,40.756662,-73.979038,"{'type': 'Point', 'coordinates': [-73.979038, 40.756662]}",1
+677,5dcda3e682fcdd0bd01002de,SpaceTime,40.756662,-73.979038,"{'type': 'Point', 'coordinates': [-73.979038, 40.756662]}",1
+678,5dcda3e682fcdd0bd01011a1,Unigo,40.7568493,-73.9793465,"{'type': 'Point', 'coordinates': [-73.9793465, 40.7568493]}",1
+679,5dcda2de82fcdd0bd00fec0f,Unigo,40.7568493,-73.9793465,"{'type': 'Point', 'coordinates': [-73.9793465, 40.7568493]}",1
+680,5dcda2de82fcdd0bd00fddad,Paramount Pictures,40.7577017,-73.9858165,"{'type': 'Point', 'coordinates': [-73.9858165, 40.7577017]}",2
+681,5dcda3e682fcdd0bd010033f,Paramount Pictures,40.7577017,-73.9858165,"{'type': 'Point', 'coordinates': [-73.9858165, 40.7577017]}",2
+682,5dcda3e682fcdd0bd00ffec9,Viacom,40.757725,-73.986011,"{'type': 'Point', 'coordinates': [-73.986011, 40.757725]}",1
+683,5dcda2de82fcdd0bd00fd937,Viacom,40.757725,-73.986011,"{'type': 'Point', 'coordinates': [-73.986011, 40.757725]}",1
+684,5dcda2de82fcdd0bd00fdf30,MTV Networks,40.757725,-73.986011,"{'type': 'Point', 'coordinates': [-73.986011, 40.757725]}",1
+685,5dcda3e682fcdd0bd01004c2,MTV Networks,40.757725,-73.986011,"{'type': 'Point', 'coordinates': [-73.986011, 40.757725]}",1
+686,5dcda2de82fcdd0bd00fde5f,XO Group,40.720824,-74.00007,"{'type': 'Point', 'coordinates': [-74.00007, 40.720824]}",1
+687,5dcda3e682fcdd0bd01003f1,XO Group,40.720824,-74.00007,"{'type': 'Point', 'coordinates': [-74.00007, 40.720824]}",1
+688,5dcda2de82fcdd0bd00fd9c7,revlayer,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+689,5dcda2de82fcdd0bd00fdd3f,Gawker Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+690,5dcda2de82fcdd0bd00fdca8,SnapVillage,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+691,5dcda3e682fcdd0bd01004a1,RiverWired,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+692,5dcda3e682fcdd0bd010059e,Blogio,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+693,5dcda2de82fcdd0bd00fdc89,Chictini,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+694,5dcda3e682fcdd0bd01005e3,Wists,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+695,5dcda3e682fcdd0bd010096f,Pinch Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+696,5dcda2de82fcdd0bd00fe051,Wists,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+697,5dcda2de82fcdd0bd00fe0a3,1938 Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+698,5dcda2de82fcdd0bd00fe1c6,Grey Global Group,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+699,5dcda3e682fcdd0bd010094d,ConcertAttack,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+700,5dcda2de82fcdd0bd00fe1f0,Kidmondo,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+701,5dcda2de82fcdd0bd00fe1fc,HyperCalc,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+702,5dcda2de82fcdd0bd00fe26a,MyBloop,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+703,5dcda2de82fcdd0bd00fe27a,Lyquidity,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+704,5dcda2de82fcdd0bd00fe3ad,Propertyqube,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+705,5dcda2de82fcdd0bd00fe3bb,ConcertAttack,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+706,5dcda3e682fcdd0bd010080c,Lyquidity,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+707,5dcda2de82fcdd0bd00fe3dd,Pinch Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+708,5dcda3e682fcdd0bd00ffec6,MeetMoi,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+709,5dcda3e682fcdd0bd00fff59,revlayer,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+710,5dcda3e682fcdd0bd00fff8d,Clipmarks,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+711,5dcda3e682fcdd0bd010005a,Tacoda,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+712,5dcda2de82fcdd0bd00fdd3a,Massify,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+713,5dcda3e682fcdd0bd010005c,Fotolog,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+714,5dcda3e682fcdd0bd0100062,iVillage,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+715,5dcda3e682fcdd0bd0100090,PeekYou,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+716,5dcda3e682fcdd0bd010021b,Chictini,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+717,5dcda3e682fcdd0bd010015c,Jango,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+718,5dcda3e682fcdd0bd010023a,SnapVillage,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+719,5dcda3e682fcdd0bd01003fb,Totspot,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+720,5dcda3e682fcdd0bd0100263,TableXchange,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+721,5dcda3e682fcdd0bd01002cc,Massify,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+722,5dcda3e682fcdd0bd01002d1,Gawker Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+723,5dcda2de82fcdd0bd00fdc34,UpNext,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+724,5dcda3e682fcdd0bd01003a8,Camlink,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+725,5dcda3e682fcdd0bd01003b0,Blog Talk Radio,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+726,5dcda3e682fcdd0bd01003dc,Gamers Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+727,5dcda3e682fcdd0bd0100423,Reuters,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+728,5dcda3e682fcdd0bd0100587,Wiredset,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+729,5dcda3e682fcdd0bd0100758,Grey Global Group,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+730,5dcda3e682fcdd0bd0100782,Kidmondo,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+731,5dcda3e682fcdd0bd010078e,HyperCalc,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+732,5dcda2de82fcdd0bd00fde91,Reuters,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+733,5dcda3e682fcdd0bd01007fc,MyBloop,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+734,5dcda3e682fcdd0bd010093f,Propertyqube,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+735,5dcda3e682fcdd0bd01001c6,UpNext,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+736,5dcda3e682fcdd0bd0100635,1938 Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+737,5dcda3e682fcdd0bd010045a,Upshot Interactive,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+738,5dcda2de82fcdd0bd00fdff5,Wiredset,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+739,5dcda2de82fcdd0bd00fdaca,Fotolog,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+740,5dcda2de82fcdd0bd00fdec8,Upshot Interactive,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+741,5dcda2de82fcdd0bd00fdac8,Tacoda,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+742,5dcda2de82fcdd0bd00fdbca,Jango,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+743,5dcda2de82fcdd0bd00fe00c,Blogio,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+744,5dcda3e682fcdd0bd01003cf,Outbrain,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",2
+745,5dcda2de82fcdd0bd00fde4a,Gamers Media,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+746,5dcda2de82fcdd0bd00fdf0f,RiverWired,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+747,5dcda2de82fcdd0bd00fde69,Totspot,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+748,5dcda2de82fcdd0bd00fde1e,Blog Talk Radio,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+749,5dcda2de82fcdd0bd00fd934,MeetMoi,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+750,5dcda2de82fcdd0bd00fde16,Camlink,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+751,5dcda2de82fcdd0bd00fde3d,Outbrain,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",2
+752,5dcda2de82fcdd0bd00fdad0,iVillage,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+753,5dcda2de82fcdd0bd00fdcd1,TableXchange,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+754,5dcda2de82fcdd0bd00fd9fb,Clipmarks,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+755,5dcda2de82fcdd0bd00fdafe,PeekYou,40.757929,-73.985506,"{'type': 'Point', 'coordinates': [-73.985506, 40.757929]}",1
+756,5dcda2de82fcdd0bd00ffc54,Exent,40.7523796,-74.005568,"{'type': 'Point', 'coordinates': [-74.005568, 40.7523796]}",3
+757,5dcda3e682fcdd0bd01021e6,Exent,40.7523796,-74.005568,"{'type': 'Point', 'coordinates': [-74.005568, 40.7523796]}",3
+758,5dcda3e682fcdd0bd0101ea5,Harvest,40.7196275,-73.9986592,"{'type': 'Point', 'coordinates': [-73.9986592, 40.7196275]}",1
+759,5dcda2de82fcdd0bd00ff913,Harvest,40.7196275,-73.9986592,"{'type': 'Point', 'coordinates': [-73.9986592, 40.7196275]}",1
+760,5dcda3e682fcdd0bd01000ed,Worklight,40.756799,-73.976348,"{'type': 'Point', 'coordinates': [-73.976348, 40.756799]}",1
+761,5dcda2de82fcdd0bd00fdb5b,Worklight,40.756799,-73.976348,"{'type': 'Point', 'coordinates': [-73.976348, 40.756799]}",1
+762,5dcda2de82fcdd0bd00fef36,MediaMath,40.756799,-73.9763479,"{'type': 'Point', 'coordinates': [-73.9763479, 40.756799]}",1
+763,5dcda3e682fcdd0bd01014c8,MediaMath,40.756799,-73.9763479,"{'type': 'Point', 'coordinates': [-73.9763479, 40.756799]}",1
+764,5dcda2de82fcdd0bd00ff6d6,Magnetic,40.758343,-73.990152,"{'type': 'Point', 'coordinates': [-73.990152, 40.758343]}",3
+765,5dcda3e682fcdd0bd0101c68,Magnetic,40.758343,-73.990152,"{'type': 'Point', 'coordinates': [-73.990152, 40.758343]}",3
+766,5dcda2de82fcdd0bd00fdbd8,Vringo,40.7550005,-73.9717364,"{'type': 'Point', 'coordinates': [-73.9717364, 40.7550005]}",1
+767,5dcda3e682fcdd0bd010016a,Vringo,40.7550005,-73.9717364,"{'type': 'Point', 'coordinates': [-73.9717364, 40.7550005]}",1
+768,5dcda3e682fcdd0bd0101eca,Corvil,40.7547187,-73.9711073,"{'type': 'Point', 'coordinates': [-73.9711073, 40.7547187]}",5
+769,5dcda2de82fcdd0bd00ff938,Corvil,40.7547187,-73.9711073,"{'type': 'Point', 'coordinates': [-73.9711073, 40.7547187]}",5
+770,5dcda3e682fcdd0bd0101ac4,MindSmack,40.758492,-73.989987,"{'type': 'Point', 'coordinates': [-73.989987, 40.758492]}",1
+771,5dcda2de82fcdd0bd00ff532,MindSmack,40.758492,-73.989987,"{'type': 'Point', 'coordinates': [-73.989987, 40.758492]}",1
+772,5dcda2de82fcdd0bd00ff383,Saffron Brand Consultants,40.720331,-74.001487,"{'type': 'Point', 'coordinates': [-74.001487, 40.720331]}",1
+773,5dcda3e682fcdd0bd0101915,Saffron Brand Consultants,40.720331,-74.001487,"{'type': 'Point', 'coordinates': [-74.001487, 40.720331]}",1
+774,5dcda2de82fcdd0bd00ff2b9,Wall Street Journal,40.7587059,-73.9824129,"{'type': 'Point', 'coordinates': [-73.9824129, 40.7587059]}",1
+775,5dcda3e682fcdd0bd010184b,Wall Street Journal,40.7587059,-73.9824129,"{'type': 'Point', 'coordinates': [-73.9824129, 40.7587059]}",1
+776,5dcda2de82fcdd0bd00fe9e2,photothread,40.721583,-74.004441,"{'type': 'Point', 'coordinates': [-74.004441, 40.721583]}",1
+777,5dcda3e682fcdd0bd0100f74,photothread,40.721583,-74.004441,"{'type': 'Point', 'coordinates': [-74.004441, 40.721583]}",1
+778,5dcda2de82fcdd0bd00feb82,photothread,40.721583,-74.004441,"{'type': 'Point', 'coordinates': [-74.004441, 40.721583]}",1
+779,5dcda3e682fcdd0bd0101114,photothread,40.721583,-74.004441,"{'type': 'Point', 'coordinates': [-74.004441, 40.721583]}",1
+780,5dcda3e682fcdd0bd010207b,Springo,40.758062,-73.978432,"{'type': 'Point', 'coordinates': [-73.978432, 40.758062]}",1
+781,5dcda2de82fcdd0bd00ffae9,Springo,40.758062,-73.978432,"{'type': 'Point', 'coordinates': [-73.978432, 40.758062]}",1
+782,5dcda2de82fcdd0bd00fe6e3,New York Media,40.72276,-74.006272,"{'type': 'Point', 'coordinates': [-74.006272, 40.72276]}",1
+783,5dcda3e682fcdd0bd0100c75,New York Media,40.72276,-74.006272,"{'type': 'Point', 'coordinates': [-74.006272, 40.72276]}",1
+784,5dcda2de82fcdd0bd00ff96b,Minyanville,40.755635,-73.971509,"{'type': 'Point', 'coordinates': [-73.971509, 40.755635]}",1
+785,5dcda3e682fcdd0bd0101efd,Minyanville,40.755635,-73.971509,"{'type': 'Point', 'coordinates': [-73.971509, 40.755635]}",1
+786,5dcda2de82fcdd0bd00fdec9,Atlantic Metro Communications,40.724298,-74.008382,"{'type': 'Point', 'coordinates': [-74.008382, 40.724298]}",7
+787,5dcda3e682fcdd0bd010045b,Atlantic Metro Communications,40.724298,-74.008382,"{'type': 'Point', 'coordinates': [-74.008382, 40.724298]}",7
+788,5dcda2de82fcdd0bd00fe11b,Salesconx,40.759243,-73.98459,"{'type': 'Point', 'coordinates': [-73.98459, 40.759243]}",1
+789,5dcda3e682fcdd0bd01006ad,Salesconx,40.759243,-73.98459,"{'type': 'Point', 'coordinates': [-73.98459, 40.759243]}",1
+790,5dcda3e682fcdd0bd010067d,Mojiva,40.7185614,-73.998662,"{'type': 'Point', 'coordinates': [-73.998662, 40.7185614]}",6
+791,5dcda2de82fcdd0bd00fe0eb,Mojiva,40.7185614,-73.998662,"{'type': 'Point', 'coordinates': [-73.998662, 40.7185614]}",6
+792,5dcda3e682fcdd0bd010046f,The FeedRoom,40.723614,-74.007948,"{'type': 'Point', 'coordinates': [-74.007948, 40.723614]}",3
+793,5dcda2de82fcdd0bd00fdedd,The FeedRoom,40.723614,-74.007948,"{'type': 'Point', 'coordinates': [-74.007948, 40.723614]}",3
+794,5dcda2de82fcdd0bd00fded3,Thrive,40.718871,-74.00118,"{'type': 'Point', 'coordinates': [-74.00118, 40.718871]}",1
+795,5dcda3e682fcdd0bd0100465,Thrive,40.718871,-74.00118,"{'type': 'Point', 'coordinates': [-74.00118, 40.718871]}",1
+796,5dcda3e682fcdd0bd0101c27,Proper Cloth,40.723351,-74.008767,"{'type': 'Point', 'coordinates': [-74.008767, 40.723351]}",1
+797,5dcda2de82fcdd0bd00ff695,Proper Cloth,40.723351,-74.008767,"{'type': 'Point', 'coordinates': [-74.008767, 40.723351]}",1
+798,5dcda3e682fcdd0bd0101352,Warner Music Group,40.7592189,-73.9783534,"{'type': 'Point', 'coordinates': [-73.9783534, 40.7592189]}",1
+799,5dcda2de82fcdd0bd00fedc0,Warner Music Group,40.7592189,-73.9783534,"{'type': 'Point', 'coordinates': [-73.9783534, 40.7592189]}",1
+800,5dcda2de82fcdd0bd00ff1a8,Bristol-Myers Squibb,40.757716,-73.972321,"{'type': 'Point', 'coordinates': [-73.972321, 40.757716]}",1
+801,5dcda3e682fcdd0bd010173a,Bristol-Myers Squibb,40.757716,-73.972321,"{'type': 'Point', 'coordinates': [-73.972321, 40.757716]}",1
+802,5dcda2de82fcdd0bd00ff7e4,Moogi,40.7217861,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7217861]}",1
+803,5dcda3e682fcdd0bd0101d76,Moogi,40.7217861,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.7217861]}",1
+804,5dcda2de82fcdd0bd00fde87,Boonty,40.717248,-74.002662,"{'type': 'Point', 'coordinates': [-74.002662, 40.717248]}",1
+805,5dcda3e682fcdd0bd0100419,Boonty,40.717248,-74.002662,"{'type': 'Point', 'coordinates': [-74.002662, 40.717248]}",1
+806,5dcda2de82fcdd0bd00fdf83,Dadaphile,40.737284,-73.955432,"{'type': 'Point', 'coordinates': [-73.955432, 40.737284]}",1
+807,5dcda3e682fcdd0bd0100515,Dadaphile,40.737284,-73.955432,"{'type': 'Point', 'coordinates': [-73.955432, 40.737284]}",1
+808,5dcda3e682fcdd0bd010061e,Cellfish,40.761855,-73.983754,"{'type': 'Point', 'coordinates': [-73.983754, 40.761855]}",1
+809,5dcda2de82fcdd0bd00fe08c,Cellfish,40.761855,-73.983754,"{'type': 'Point', 'coordinates': [-73.983754, 40.761855]}",1
+810,5dcda2de82fcdd0bd00fe660,Deloitte,40.7618675,-73.9837603,"{'type': 'Point', 'coordinates': [-73.9837603, 40.7618675]}",1
+811,5dcda3e682fcdd0bd0100bf2,Deloitte,40.7618675,-73.9837603,"{'type': 'Point', 'coordinates': [-73.9837603, 40.7618675]}",1
+812,5dcda3e682fcdd0bd0100c81,OgilvyOne,40.762052,-73.98749,"{'type': 'Point', 'coordinates': [-73.98749, 40.762052]}",1
+813,5dcda2de82fcdd0bd00fe6ef,OgilvyOne,40.762052,-73.98749,"{'type': 'Point', 'coordinates': [-73.98749, 40.762052]}",1
+814,5dcda2de82fcdd0bd00fe04b,Meck Technology,40.76126,-73.99726,"{'type': 'Point', 'coordinates': [-73.99726, 40.76126]}",1
+815,5dcda3e682fcdd0bd01005dd,Meck Technology,40.76126,-73.99726,"{'type': 'Point', 'coordinates': [-73.99726, 40.76126]}",1
+816,5dcda3e682fcdd0bd0101d41,SEO Expert,40.760283,-73.972262,"{'type': 'Point', 'coordinates': [-73.972262, 40.760283]}",1
+817,5dcda2de82fcdd0bd00ff7af,SEO Expert,40.760283,-73.972262,"{'type': 'Point', 'coordinates': [-73.972262, 40.760283]}",1
+818,5dcda3e682fcdd0bd0101a2d,TheMarkets,40.762674,-73.9821315,"{'type': 'Point', 'coordinates': [-73.9821315, 40.762674]}",1
+819,5dcda2de82fcdd0bd00ff49b,TheMarkets,40.762674,-73.9821315,"{'type': 'Point', 'coordinates': [-73.9821315, 40.762674]}",1
+820,5dcda2de82fcdd0bd00fef46,Pilotlite,40.7166822,-74.005398,"{'type': 'Point', 'coordinates': [-74.005398, 40.7166822]}",1
+821,5dcda3e682fcdd0bd01014d8,Pilotlite,40.7166822,-74.005398,"{'type': 'Point', 'coordinates': [-74.005398, 40.7166822]}",1
+822,5dcda3e682fcdd0bd0100fe1,Frogmetrics,40.7286261,-73.9555369,"{'type': 'Point', 'coordinates': [-73.9555369, 40.7286261]}",1
+823,5dcda3e682fcdd0bd0100e41,Frogmetrics,40.7286261,-73.9555369,"{'type': 'Point', 'coordinates': [-73.9555369, 40.7286261]}",1
+824,5dcda2de82fcdd0bd00fea4f,Frogmetrics,40.7286261,-73.9555369,"{'type': 'Point', 'coordinates': [-73.9555369, 40.7286261]}",1
+825,5dcda2de82fcdd0bd00fe8af,Frogmetrics,40.7286261,-73.9555369,"{'type': 'Point', 'coordinates': [-73.9555369, 40.7286261]}",1
+826,5dcda2de82fcdd0bd00fdc42,Songza,40.7473113,-73.9549182,"{'type': 'Point', 'coordinates': [-73.9549182, 40.7473113]}",1
+827,5dcda3e682fcdd0bd01001d4,Songza,40.7473113,-73.9549182,"{'type': 'Point', 'coordinates': [-73.9549182, 40.7473113]}",1
+828,5dcda2de82fcdd0bd00ff075,iPerceptions,40.7619759,-73.9725773,"{'type': 'Point', 'coordinates': [-73.9725773, 40.7619759]}",2
+829,5dcda3e682fcdd0bd0101607,iPerceptions,40.7619759,-73.9725773,"{'type': 'Point', 'coordinates': [-73.9725773, 40.7619759]}",2
+830,5dcda2de82fcdd0bd00ff309,Rhxo Technology Group,40.762897,-73.974714,"{'type': 'Point', 'coordinates': [-73.974714, 40.762897]}",1
+831,5dcda3e682fcdd0bd010189b,Rhxo Technology Group,40.762897,-73.974714,"{'type': 'Point', 'coordinates': [-73.974714, 40.762897]}",1
+832,5dcda3e682fcdd0bd010072f,E*Trade,40.76096,-73.969237,"{'type': 'Point', 'coordinates': [-73.969237, 40.76096]}",1
+833,5dcda2de82fcdd0bd00fe19d,E*Trade,40.76096,-73.969237,"{'type': 'Point', 'coordinates': [-73.969237, 40.76096]}",1
+834,5dcda3e682fcdd0bd0101d1a,Americanlisted,40.7615818,-73.970624,"{'type': 'Point', 'coordinates': [-73.970624, 40.7615818]}",1
+835,5dcda2de82fcdd0bd00ff788,Americanlisted,40.7615818,-73.970624,"{'type': 'Point', 'coordinates': [-73.970624, 40.7615818]}",1
+836,5dcda3e682fcdd0bd0100dff,Travelzoo,40.762251,-73.9723688,"{'type': 'Point', 'coordinates': [-73.9723688, 40.762251]}",1
+837,5dcda2de82fcdd0bd00fe86d,Travelzoo,40.762251,-73.9723688,"{'type': 'Point', 'coordinates': [-73.9723688, 40.762251]}",1
+838,5dcda3e682fcdd0bd0101b8e,Solidea,40.715145,-74.005897,"{'type': 'Point', 'coordinates': [-74.005897, 40.715145]}",1
+839,5dcda2de82fcdd0bd00fdd56,Convos,40.715145,-74.005897,"{'type': 'Point', 'coordinates': [-74.005897, 40.715145]}",1
+840,5dcda3e682fcdd0bd01002e8,Convos,40.715145,-74.005897,"{'type': 'Point', 'coordinates': [-74.005897, 40.715145]}",1
+841,5dcda2de82fcdd0bd00ff5fc,Solidea,40.715145,-74.005897,"{'type': 'Point', 'coordinates': [-74.005897, 40.715145]}",1
+842,5dcda2de82fcdd0bd00ff516,whistleBox,40.7197125,-73.9607545,"{'type': 'Point', 'coordinates': [-73.9607545, 40.7197125]}",1
+843,5dcda3e682fcdd0bd0101aa8,whistleBox,40.7197125,-73.9607545,"{'type': 'Point', 'coordinates': [-73.9607545, 40.7197125]}",1
+844,5dcda2de82fcdd0bd00ff09f,Unison Technologies,40.7645772,-73.9799007,"{'type': 'Point', 'coordinates': [-73.9799007, 40.7645772]}",1
+845,5dcda3e682fcdd0bd0101631,Unison Technologies,40.7645772,-73.9799007,"{'type': 'Point', 'coordinates': [-73.9799007, 40.7645772]}",1
+846,5dcda2de82fcdd0bd00fe38f,FriendsTribe,40.758006,-73.96224,"{'type': 'Point', 'coordinates': [-73.96224, 40.758006]}",1
+847,5dcda3e682fcdd0bd0100921,FriendsTribe,40.758006,-73.96224,"{'type': 'Point', 'coordinates': [-73.96224, 40.758006]}",1
+848,5dcda2de82fcdd0bd00fe45c,Vroengard Academy,40.765283,-73.982007,"{'type': 'Point', 'coordinates': [-73.982007, 40.765283]}",1
+849,5dcda3e682fcdd0bd01009ee,Vroengard Academy,40.765283,-73.982007,"{'type': 'Point', 'coordinates': [-73.982007, 40.765283]}",1
+850,5dcda2de82fcdd0bd00fe1b9,Zenbe,40.716884,-74.010355,"{'type': 'Point', 'coordinates': [-74.010355, 40.716884]}",1
+851,5dcda3e682fcdd0bd010074b,Zenbe,40.716884,-74.010355,"{'type': 'Point', 'coordinates': [-74.010355, 40.716884]}",1
+852,5dcda2de82fcdd0bd00ff501,Backbase,40.7143528,-74.0059731,"{'type': 'Point', 'coordinates': [-74.0059731, 40.7143528]}",2
+853,5dcda3e682fcdd0bd0101a93,Backbase,40.7143528,-74.0059731,"{'type': 'Point', 'coordinates': [-74.0059731, 40.7143528]}",2
+854,5dcda3e682fcdd0bd01007e5,Beam It Up Scotty,40.7143528,-74.0059731,"{'type': 'Point', 'coordinates': [-74.0059731, 40.7143528]}",1
+855,5dcda2de82fcdd0bd00fe253,Beam It Up Scotty,40.7143528,-74.0059731,"{'type': 'Point', 'coordinates': [-74.0059731, 40.7143528]}",1
+856,5dcda2de82fcdd0bd00fe589,VBS TV,40.720764,-73.957968,"{'type': 'Point', 'coordinates': [-73.957968, 40.720764]}",1
+857,5dcda3e682fcdd0bd0100b1b,VBS TV,40.720764,-73.957968,"{'type': 'Point', 'coordinates': [-73.957968, 40.720764]}",1
+858,5dcda2de82fcdd0bd00fe449,Strateer,40.714521,-74.007072,"{'type': 'Point', 'coordinates': [-74.007072, 40.714521]}",1
+859,5dcda3e682fcdd0bd01009db,Strateer,40.714521,-74.007072,"{'type': 'Point', 'coordinates': [-74.007072, 40.714521]}",1
+860,5dcda2de82fcdd0bd00ff513,Tigerbow,40.7143,-74.0067,"{'type': 'Point', 'coordinates': [-74.0067, 40.7143]}",1
+861,5dcda3e682fcdd0bd0101aa5,Tigerbow,40.7143,-74.0067,"{'type': 'Point', 'coordinates': [-74.0067, 40.7143]}",1
+862,5dcda3e682fcdd0bd01020e0,NYC Media Group,40.712949,-74.003616,"{'type': 'Point', 'coordinates': [-74.003616, 40.712949]}",1
+863,5dcda2de82fcdd0bd00ffb4e,NYC Media Group,40.712949,-74.003616,"{'type': 'Point', 'coordinates': [-74.003616, 40.712949]}",1
+864,5dcda3e682fcdd0bd01013c3,Please Fix the iPhone,40.7185306,-73.9603077,"{'type': 'Point', 'coordinates': [-73.9603077, 40.7185306]}",1
+865,5dcda2de82fcdd0bd00fee31,Please Fix the iPhone,40.7185306,-73.9603077,"{'type': 'Point', 'coordinates': [-73.9603077, 40.7185306]}",1
+866,5dcda3e682fcdd0bd010023e,SimulScribe,40.762673,-73.969296,"{'type': 'Point', 'coordinates': [-73.969296, 40.762673]}",1
+867,5dcda2de82fcdd0bd00fdcac,SimulScribe,40.762673,-73.969296,"{'type': 'Point', 'coordinates': [-73.969296, 40.762673]}",1
+868,5dcda2de82fcdd0bd00fe080,South Park Studios,40.766332,-73.981828,"{'type': 'Point', 'coordinates': [-73.981828, 40.766332]}",1
+869,5dcda3e682fcdd0bd0100612,South Park Studios,40.766332,-73.981828,"{'type': 'Point', 'coordinates': [-73.981828, 40.766332]}",1
+870,5dcda3e682fcdd0bd0101955,Hello Travel,40.7642348,-73.971697,"{'type': 'Point', 'coordinates': [-73.971697, 40.7642348]}",1
+871,5dcda2de82fcdd0bd00ff3c3,Hello Travel,40.7642348,-73.971697,"{'type': 'Point', 'coordinates': [-73.971697, 40.7642348]}",1
+872,5dcda2de82fcdd0bd00fdf19,JobThread,40.7150928,-74.0101816,"{'type': 'Point', 'coordinates': [-74.0101816, 40.7150928]}",1
+873,5dcda3e682fcdd0bd01004ab,JobThread,40.7150928,-74.0101816,"{'type': 'Point', 'coordinates': [-74.0101816, 40.7150928]}",1
+874,5dcda2de82fcdd0bd00fe56b,NOLOH,40.762975,-73.9674,"{'type': 'Point', 'coordinates': [-73.9674, 40.762975]}",1
+875,5dcda3e682fcdd0bd0100afd,NOLOH,40.762975,-73.9674,"{'type': 'Point', 'coordinates': [-73.9674, 40.762975]}",1
+876,5dcda3e682fcdd0bd010157e,Refinery29,40.7277189,-73.9508211,"{'type': 'Point', 'coordinates': [-73.9508211, 40.7277189]}",1
+877,5dcda2de82fcdd0bd00fefec,Refinery29,40.7277189,-73.9508211,"{'type': 'Point', 'coordinates': [-73.9508211, 40.7277189]}",1
+878,5dcda2de82fcdd0bd00fec02,The Company Database,40.764481,-73.970266,"{'type': 'Point', 'coordinates': [-73.970266, 40.764481]}",1
+879,5dcda3e682fcdd0bd0101194,The Company Database,40.764481,-73.970266,"{'type': 'Point', 'coordinates': [-73.970266, 40.764481]}",1
+880,5dcda2de82fcdd0bd00ff492,Vital Juice,40.767418,-73.987951,"{'type': 'Point', 'coordinates': [-73.987951, 40.767418]}",1
+881,5dcda3e682fcdd0bd0101a24,Vital Juice,40.767418,-73.987951,"{'type': 'Point', 'coordinates': [-73.987951, 40.767418]}",1
+882,5dcda2de82fcdd0bd00fe7b4,Zagat,40.76769,-73.982558,"{'type': 'Point', 'coordinates': [-73.982558, 40.76769]}",1
+883,5dcda3e682fcdd0bd0100d46,Zagat,40.76769,-73.982558,"{'type': 'Point', 'coordinates': [-73.982558, 40.76769]}",1
+884,5dcda2de82fcdd0bd00ff940,Cowrite,40.7679235,-73.9836019,"{'type': 'Point', 'coordinates': [-73.9836019, 40.7679235]}",1
+885,5dcda3e682fcdd0bd0101ed2,Cowrite,40.7679235,-73.9836019,"{'type': 'Point', 'coordinates': [-73.9836019, 40.7679235]}",1
+886,5dcda2de82fcdd0bd00ff8aa,Control Group,40.7124151,-74.007767,"{'type': 'Point', 'coordinates': [-74.007767, 40.7124151]}",1
+887,5dcda3e682fcdd0bd0101e3c,Control Group,40.7124151,-74.007767,"{'type': 'Point', 'coordinates': [-74.007767, 40.7124151]}",1
+888,5dcda2de82fcdd0bd00ffa5e,Moody's,40.712985,-74.0093453,"{'type': 'Point', 'coordinates': [-74.0093453, 40.712985]}",2
+889,5dcda3e682fcdd0bd0101ff0,Moody's,40.712985,-74.0093453,"{'type': 'Point', 'coordinates': [-74.0093453, 40.712985]}",2
+890,5dcda3e682fcdd0bd01003d9,Mochila,40.711982,-74.008622,"{'type': 'Point', 'coordinates': [-74.008622, 40.711982]}",1
+891,5dcda2de82fcdd0bd00fde47,Mochila,40.711982,-74.008622,"{'type': 'Point', 'coordinates': [-74.008622, 40.711982]}",1
+892,5dcda2de82fcdd0bd00ff4c0,MediaMall Technologies,40.7166829,-74.0163992,"{'type': 'Point', 'coordinates': [-74.0163992, 40.7166829]}",1
+893,5dcda3e682fcdd0bd0101a52,MediaMall Technologies,40.7166829,-74.0163992,"{'type': 'Point', 'coordinates': [-74.0163992, 40.7166829]}",1
+894,5dcda2de82fcdd0bd00fe9a6,Propertyshark,40.719436,-73.954391,"{'type': 'Point', 'coordinates': [-73.954391, 40.719436]}",1
+895,5dcda2de82fcdd0bd00feb46,Propertyshark,40.719436,-73.954391,"{'type': 'Point', 'coordinates': [-73.954391, 40.719436]}",1
+896,5dcda3e682fcdd0bd0100f38,Propertyshark,40.719436,-73.954391,"{'type': 'Point', 'coordinates': [-73.954391, 40.719436]}",1
+897,5dcda3e682fcdd0bd01010d8,Propertyshark,40.719436,-73.954391,"{'type': 'Point', 'coordinates': [-73.954391, 40.719436]}",1
+898,5dcda2de82fcdd0bd00ff300,MBV,40.763498,-73.9639021,"{'type': 'Point', 'coordinates': [-73.9639021, 40.763498]}",1
+899,5dcda3e682fcdd0bd0101892,MBV,40.763498,-73.9639021,"{'type': 'Point', 'coordinates': [-73.9639021, 40.763498]}",1
+900,5dcda2de82fcdd0bd00ff152,Hanger Network In-Home Media,40.769375,-73.982635,"{'type': 'Point', 'coordinates': [-73.982635, 40.769375]}",1
+901,5dcda3e682fcdd0bd01016e4,Hanger Network In-Home Media,40.769375,-73.982635,"{'type': 'Point', 'coordinates': [-73.982635, 40.769375]}",1
+902,5dcda3e682fcdd0bd0101ec9,Eglue Business Technologies,40.736222,-74.02977,"{'type': 'Point', 'coordinates': [-74.02977, 40.736222]}",2
+903,5dcda2de82fcdd0bd00ff937,Eglue Business Technologies,40.736222,-74.02977,"{'type': 'Point', 'coordinates': [-74.02977, 40.736222]}",2
+904,5dcda2de82fcdd0bd00ff162,Why Hasn't He?,40.7703479,-73.9914834,"{'type': 'Point', 'coordinates': [-73.9914834, 40.7703479]}",1
+905,5dcda3e682fcdd0bd01016f4,Why Hasn't He?,40.7703479,-73.9914834,"{'type': 'Point', 'coordinates': [-73.9914834, 40.7703479]}",1
+906,5dcda2de82fcdd0bd00ffcf3,WiNetworks,40.770437,-73.990426,"{'type': 'Point', 'coordinates': [-73.990426, 40.770437]}",1
+907,5dcda3e682fcdd0bd0102285,WiNetworks,40.770437,-73.990426,"{'type': 'Point', 'coordinates': [-73.990426, 40.770437]}",1
+908,5dcda2de82fcdd0bd00fee2a,Cookstr,40.707268,-74.001724,"{'type': 'Point', 'coordinates': [-74.001724, 40.707268]}",1
+909,5dcda3e682fcdd0bd01013bc,Cookstr,40.707268,-74.001724,"{'type': 'Point', 'coordinates': [-74.001724, 40.707268]}",1
+910,5dcda2de82fcdd0bd00fdad9,Tutor,40.707921,-74.004792,"{'type': 'Point', 'coordinates': [-74.004792, 40.707921]}",1
+911,5dcda3e682fcdd0bd010006b,Tutor,40.707921,-74.004792,"{'type': 'Point', 'coordinates': [-74.004792, 40.707921]}",1
+912,5dcda2de82fcdd0bd00ffb56,Disrupto,40.714279,-73.9565551,"{'type': 'Point', 'coordinates': [-73.9565551, 40.714279]}",1
+913,5dcda3e682fcdd0bd01020e8,Disrupto,40.714279,-73.9565551,"{'type': 'Point', 'coordinates': [-73.9565551, 40.714279]}",1
+914,5dcda2de82fcdd0bd00fda6f,ContextWeb,40.71014,-74.010808,"{'type': 'Point', 'coordinates': [-74.010808, 40.71014]}",1
+915,5dcda3e682fcdd0bd0100001,ContextWeb,40.71014,-74.010808,"{'type': 'Point', 'coordinates': [-74.010808, 40.71014]}",1
+916,5dcda2de82fcdd0bd00fea06,Vichara Technologies,40.7075492,-74.0055997,"{'type': 'Point', 'coordinates': [-74.0055997, 40.7075492]}",1
+917,5dcda2de82fcdd0bd00feba6,Vichara Technologies,40.7075492,-74.0055997,"{'type': 'Point', 'coordinates': [-74.0055997, 40.7075492]}",1
+918,5dcda3e682fcdd0bd0100f98,Vichara Technologies,40.7075492,-74.0055997,"{'type': 'Point', 'coordinates': [-74.0055997, 40.7075492]}",1
+919,5dcda3e682fcdd0bd0101138,Vichara Technologies,40.7075492,-74.0055997,"{'type': 'Point', 'coordinates': [-74.0055997, 40.7075492]}",1
+920,5dcda2de82fcdd0bd00fe424,TuneCore,40.704382,-73.986572,"{'type': 'Point', 'coordinates': [-73.986572, 40.704382]}",1
+921,5dcda2de82fcdd0bd00fec38,YourLocal,40.704382,-73.986572,"{'type': 'Point', 'coordinates': [-73.986572, 40.704382]}",1
+922,5dcda3e682fcdd0bd01009b6,TuneCore,40.704382,-73.986572,"{'type': 'Point', 'coordinates': [-73.986572, 40.704382]}",1
+923,5dcda3e682fcdd0bd01011ca,YourLocal,40.704382,-73.986572,"{'type': 'Point', 'coordinates': [-73.986572, 40.704382]}",1
+924,5dcda2de82fcdd0bd00fe692,GEN247,40.727434,-73.9447994,"{'type': 'Point', 'coordinates': [-73.9447994, 40.727434]}",1
+925,5dcda3e682fcdd0bd0100c24,GEN247,40.727434,-73.9447994,"{'type': 'Point', 'coordinates': [-73.9447994, 40.727434]}",1
+926,5dcda2de82fcdd0bd00fe94c,TradeCard,40.707729,-74.007801,"{'type': 'Point', 'coordinates': [-74.007801, 40.707729]}",1
+927,5dcda2de82fcdd0bd00feaec,TradeCard,40.707729,-74.007801,"{'type': 'Point', 'coordinates': [-74.007801, 40.707729]}",1
+928,5dcda3e682fcdd0bd0100ede,TradeCard,40.707729,-74.007801,"{'type': 'Point', 'coordinates': [-74.007801, 40.707729]}",1
+929,5dcda3e682fcdd0bd010107e,TradeCard,40.707729,-74.007801,"{'type': 'Point', 'coordinates': [-74.007801, 40.707729]}",1
+930,5dcda2de82fcdd0bd00fdd49,Metromole,40.707253,-74.007413,"{'type': 'Point', 'coordinates': [-74.007413, 40.707253]}",1
+931,5dcda3e682fcdd0bd01002db,Metromole,40.707253,-74.007413,"{'type': 'Point', 'coordinates': [-74.007413, 40.707253]}",1
+932,5dcda2de82fcdd0bd00fe902,Pond5,40.7032884,-73.9878525,"{'type': 'Point', 'coordinates': [-73.9878525, 40.7032884]}",2
+933,5dcda3e682fcdd0bd0101034,Pond5,40.7032884,-73.9878525,"{'type': 'Point', 'coordinates': [-73.9878525, 40.7032884]}",2
+934,5dcda3e682fcdd0bd0100e94,Pond5,40.7032884,-73.9878525,"{'type': 'Point', 'coordinates': [-73.9878525, 40.7032884]}",2
+935,5dcda2de82fcdd0bd00feaa2,Pond5,40.7032884,-73.9878525,"{'type': 'Point', 'coordinates': [-73.9878525, 40.7032884]}",2
+936,5dcda2de82fcdd0bd00ffa05,Vaultive,40.707954,-74.011114,"{'type': 'Point', 'coordinates': [-74.011114, 40.707954]}",1
+937,5dcda3e682fcdd0bd0101f97,Vaultive,40.707954,-74.011114,"{'type': 'Point', 'coordinates': [-74.011114, 40.707954]}",1
+938,5dcda2de82fcdd0bd00ffbdb,OwnEnergy,40.7028474,-73.9906813,"{'type': 'Point', 'coordinates': [-73.9906813, 40.7028474]}",1
+939,5dcda2de82fcdd0bd00ff7a7,Discount Sports Tickets,40.7028474,-73.9906813,"{'type': 'Point', 'coordinates': [-73.9906813, 40.7028474]}",1
+940,5dcda2de82fcdd0bd00ff8dc,Huge,40.7028474,-73.9906813,"{'type': 'Point', 'coordinates': [-73.9906813, 40.7028474]}",10
+941,5dcda3e682fcdd0bd0101d39,Discount Sports Tickets,40.7028474,-73.9906813,"{'type': 'Point', 'coordinates': [-73.9906813, 40.7028474]}",1
+942,5dcda3e682fcdd0bd0101e6e,Huge,40.7028474,-73.9906813,"{'type': 'Point', 'coordinates': [-73.9906813, 40.7028474]}",10
+943,5dcda3e682fcdd0bd010216d,OwnEnergy,40.7028474,-73.9906813,"{'type': 'Point', 'coordinates': [-73.9906813, 40.7028474]}",1
+944,5dcda2de82fcdd0bd00fe444,Freeverse,40.702847,-73.990681,"{'type': 'Point', 'coordinates': [-73.990681, 40.702847]}",1
+945,5dcda3e682fcdd0bd01009d6,Freeverse,40.702847,-73.990681,"{'type': 'Point', 'coordinates': [-73.990681, 40.702847]}",1
+946,5dcda3e682fcdd0bd0100196,TheStreet,40.707645,-74.010816,"{'type': 'Point', 'coordinates': [-74.010816, 40.707645]}",1
+947,5dcda2de82fcdd0bd00fdc04,TheStreet,40.707645,-74.010816,"{'type': 'Point', 'coordinates': [-74.010816, 40.707645]}",1
+948,5dcda2de82fcdd0bd00fe1ce,Pontiflex,40.702692,-73.989613,"{'type': 'Point', 'coordinates': [-73.989613, 40.702692]}",1
+949,5dcda3e682fcdd0bd0100760,Pontiflex,40.702692,-73.989613,"{'type': 'Point', 'coordinates': [-73.989613, 40.702692]}",1
+950,5dcda2de82fcdd0bd00ff050,gliider,40.702692,-73.989613,"{'type': 'Point', 'coordinates': [-73.989613, 40.702692]}",1
+951,5dcda3e682fcdd0bd01015e2,gliider,40.702692,-73.989613,"{'type': 'Point', 'coordinates': [-73.989613, 40.702692]}",1
+952,5dcda2de82fcdd0bd00fe9c3,Briteclick,40.708093,-74.01312,"{'type': 'Point', 'coordinates': [-74.01312, 40.708093]}",1
+953,5dcda2de82fcdd0bd00feb63,Briteclick,40.708093,-74.01312,"{'type': 'Point', 'coordinates': [-74.01312, 40.708093]}",1
+954,5dcda3e682fcdd0bd0100f55,Briteclick,40.708093,-74.01312,"{'type': 'Point', 'coordinates': [-74.01312, 40.708093]}",1
+955,5dcda3e682fcdd0bd01010f5,Briteclick,40.708093,-74.01312,"{'type': 'Point', 'coordinates': [-74.01312, 40.708093]}",1
+956,5dcda2de82fcdd0bd00fefb4,ABC News Online,40.77353,-73.980533,"{'type': 'Point', 'coordinates': [-73.980533, 40.77353]}",1
+957,5dcda3e682fcdd0bd0101546,ABC News Online,40.77353,-73.980533,"{'type': 'Point', 'coordinates': [-73.980533, 40.77353]}",1
+958,5dcda2de82fcdd0bd00fe5f7,Avature,40.706271,-74.009242,"{'type': 'Point', 'coordinates': [-74.009242, 40.706271]}",1
+959,5dcda3e682fcdd0bd0100b89,Avature,40.706271,-74.009242,"{'type': 'Point', 'coordinates': [-74.009242, 40.706271]}",1
+960,5dcda2de82fcdd0bd00ff241,Mantara,40.726517,-74.032177,"{'type': 'Point', 'coordinates': [-74.032177, 40.726517]}",1
+961,5dcda3e682fcdd0bd01017d3,Mantara,40.726517,-74.032177,"{'type': 'Point', 'coordinates': [-74.032177, 40.726517]}",1
+962,5dcda2de82fcdd0bd00ffa01,Simply Good Media,40.726517,-74.032177,"{'type': 'Point', 'coordinates': [-74.032177, 40.726517]}",1
+963,5dcda3e682fcdd0bd0101f93,Simply Good Media,40.726517,-74.032177,"{'type': 'Point', 'coordinates': [-74.032177, 40.726517]}",1
+964,5dcda2de82fcdd0bd00ff255,IAmInTown,40.7370784,-74.0348315,"{'type': 'Point', 'coordinates': [-74.0348315, 40.7370784]}",1
+965,5dcda3e682fcdd0bd01017e7,IAmInTown,40.7370784,-74.0348315,"{'type': 'Point', 'coordinates': [-74.0348315, 40.7370784]}",1
+966,5dcda2de82fcdd0bd00ffe75,Email Data Source,40.7071576,-74.0121632,"{'type': 'Point', 'coordinates': [-74.0121632, 40.7071576]}",1
+967,5dcda3e682fcdd0bd0102407,Email Data Source,40.7071576,-74.0121632,"{'type': 'Point', 'coordinates': [-74.0121632, 40.7071576]}",1
+968,5dcda2de82fcdd0bd00ff80f,amfAR,40.704708,-74.005997,"{'type': 'Point', 'coordinates': [-74.005997, 40.704708]}",1
+969,5dcda3e682fcdd0bd0101da1,amfAR,40.704708,-74.005997,"{'type': 'Point', 'coordinates': [-74.005997, 40.704708]}",1
+970,5dcda2de82fcdd0bd00ff726,GameChanger Media,40.7078343,-74.0136605,"{'type': 'Point', 'coordinates': [-74.0136605, 40.7078343]}",1
+971,5dcda3e682fcdd0bd0101cb8,GameChanger Media,40.7078343,-74.0136605,"{'type': 'Point', 'coordinates': [-74.0136605, 40.7078343]}",1
+972,5dcda2de82fcdd0bd00fde4b,FixSor,40.706527,-74.011827,"{'type': 'Point', 'coordinates': [-74.011827, 40.706527]}",1
+973,5dcda3e682fcdd0bd01003dd,FixSor,40.706527,-74.011827,"{'type': 'Point', 'coordinates': [-74.011827, 40.706527]}",1
+974,5dcda2de82fcdd0bd00fe15b,Fog Creek Software,40.706728,-74.012533,"{'type': 'Point', 'coordinates': [-74.012533, 40.706728]}",1
+975,5dcda3e682fcdd0bd01006ed,Fog Creek Software,40.706728,-74.012533,"{'type': 'Point', 'coordinates': [-74.012533, 40.706728]}",1
+976,5dcda2de82fcdd0bd00fda78,JumpTV,40.705898,-74.011398,"{'type': 'Point', 'coordinates': [-74.011398, 40.705898]}",1
+977,5dcda3e682fcdd0bd010000a,JumpTV,40.705898,-74.011398,"{'type': 'Point', 'coordinates': [-74.011398, 40.705898]}",1
+978,5dcda2de82fcdd0bd00fe94a,Producteev,40.775309,-73.983656,"{'type': 'Point', 'coordinates': [-73.983656, 40.775309]}",1
+979,5dcda2de82fcdd0bd00feaea,Producteev,40.775309,-73.983656,"{'type': 'Point', 'coordinates': [-73.983656, 40.775309]}",1
+980,5dcda3e682fcdd0bd0100edc,Producteev,40.775309,-73.983656,"{'type': 'Point', 'coordinates': [-73.983656, 40.775309]}",1
+981,5dcda3e682fcdd0bd010107c,Producteev,40.775309,-73.983656,"{'type': 'Point', 'coordinates': [-73.983656, 40.775309]}",1
+982,5dcda2de82fcdd0bd00fe652,Airtag,40.704213,-74.0082089,"{'type': 'Point', 'coordinates': [-74.0082089, 40.704213]}",2
+983,5dcda3e682fcdd0bd0100be4,Airtag,40.704213,-74.0082089,"{'type': 'Point', 'coordinates': [-74.0082089, 40.704213]}",2
+984,5dcda2de82fcdd0bd00fe64e,Junction Networks,40.705255,-74.010983,"{'type': 'Point', 'coordinates': [-74.010983, 40.705255]}",2
+985,5dcda3e682fcdd0bd0100be0,Junction Networks,40.705255,-74.010983,"{'type': 'Point', 'coordinates': [-74.010983, 40.705255]}",2
+986,5dcda2de82fcdd0bd00ff120,Shutterstock,40.7051551,-74.0115175,"{'type': 'Point', 'coordinates': [-74.0115175, 40.7051551]}",1
+987,5dcda3e682fcdd0bd01016b2,Shutterstock,40.7051551,-74.0115175,"{'type': 'Point', 'coordinates': [-74.0115175, 40.7051551]}",1
+988,5dcda2de82fcdd0bd00fdafa,OrganizedWisdom,40.775537,-73.981709,"{'type': 'Point', 'coordinates': [-73.981709, 40.775537]}",1
+989,5dcda3e682fcdd0bd010008c,OrganizedWisdom,40.775537,-73.981709,"{'type': 'Point', 'coordinates': [-73.981709, 40.775537]}",1
+990,5dcda3e682fcdd0bd0101ac2,MyWealth,40.7038257,-74.0083282,"{'type': 'Point', 'coordinates': [-74.0083282, 40.7038257]}",1
+991,5dcda2de82fcdd0bd00ff530,MyWealth,40.7038257,-74.0083282,"{'type': 'Point', 'coordinates': [-74.0083282, 40.7038257]}",1
+992,5dcda2de82fcdd0bd00fdf64,Dotsub,40.7680901,-73.9566761,"{'type': 'Point', 'coordinates': [-73.9566761, 40.7680901]}",1
+993,5dcda3e682fcdd0bd01004f6,Dotsub,40.7680901,-73.9566761,"{'type': 'Point', 'coordinates': [-73.9566761, 40.7680901]}",1
+994,5dcda2de82fcdd0bd00fe9dd,Kidos,40.768058,-73.956599,"{'type': 'Point', 'coordinates': [-73.956599, 40.768058]}",2
+995,5dcda3e682fcdd0bd010110f,Kidos,40.768058,-73.956599,"{'type': 'Point', 'coordinates': [-73.956599, 40.768058]}",2
+996,5dcda3e682fcdd0bd0100f6f,Kidos,40.768058,-73.956599,"{'type': 'Point', 'coordinates': [-73.956599, 40.768058]}",2
+997,5dcda2de82fcdd0bd00feb7d,Kidos,40.768058,-73.956599,"{'type': 'Point', 'coordinates': [-73.956599, 40.768058]}",2
+998,5dcda2de82fcdd0bd00fee77,Elika Associates,40.705439,-74.012822,"{'type': 'Point', 'coordinates': [-74.012822, 40.705439]}",1
+999,5dcda2de82fcdd0bd00ff0fb,SecondMarket,40.705439,-74.012822,"{'type': 'Point', 'coordinates': [-74.012822, 40.705439]}",2
+1000,5dcda3e682fcdd0bd010168d,SecondMarket,40.705439,-74.012822,"{'type': 'Point', 'coordinates': [-74.012822, 40.705439]}",2
+1001,5dcda3e682fcdd0bd0101409,Elika Associates,40.705439,-74.012822,"{'type': 'Point', 'coordinates': [-74.012822, 40.705439]}",1
+1002,5dcda2de82fcdd0bd00fe8ae,Integrate,40.7481039,-74.0353787,"{'type': 'Point', 'coordinates': [-74.0353787, 40.7481039]}",4
+1003,5dcda2de82fcdd0bd00fea4e,Integrate,40.7481039,-74.0353787,"{'type': 'Point', 'coordinates': [-74.0353787, 40.7481039]}",4
+1004,5dcda3e682fcdd0bd0100e40,Integrate,40.7481039,-74.0353787,"{'type': 'Point', 'coordinates': [-74.0353787, 40.7481039]}",4
+1005,5dcda3e682fcdd0bd0100fe0,Integrate,40.7481039,-74.0353787,"{'type': 'Point', 'coordinates': [-74.0353787, 40.7481039]}",4
+1006,5dcda2de82fcdd0bd00fdeba,Origin Digital,40.761979,-74.026033,"{'type': 'Point', 'coordinates': [-74.026033, 40.761979]}",1
+1007,5dcda3e682fcdd0bd010044c,Origin Digital,40.761979,-74.026033,"{'type': 'Point', 'coordinates': [-74.026033, 40.761979]}",1
+1008,5dcda2de82fcdd0bd00fe0c0,MediaWhiz,40.704622,-74.011546,"{'type': 'Point', 'coordinates': [-74.011546, 40.704622]}",1
+1009,5dcda3e682fcdd0bd0100652,MediaWhiz,40.704622,-74.011546,"{'type': 'Point', 'coordinates': [-74.011546, 40.704622]}",1
+1010,5dcda3e682fcdd0bd0101276,CREOpoint,40.768618,-73.956458,"{'type': 'Point', 'coordinates': [-73.956458, 40.768618]}",1
+1011,5dcda2de82fcdd0bd00fece4,CREOpoint,40.768618,-73.956458,"{'type': 'Point', 'coordinates': [-73.956458, 40.768618]}",1
+1012,5dcda3e682fcdd0bd0101a85,Comodo,40.726963,-74.035805,"{'type': 'Point', 'coordinates': [-74.035805, 40.726963]}",6
+1013,5dcda2de82fcdd0bd00ff4f3,Comodo,40.726963,-74.035805,"{'type': 'Point', 'coordinates': [-74.035805, 40.726963]}",6
+1014,5dcda3e682fcdd0bd0101155,Meet Now Live,40.777072,-73.987036,"{'type': 'Point', 'coordinates': [-73.987036, 40.777072]}",1
+1015,5dcda2de82fcdd0bd00febc3,Meet Now Live,40.777072,-73.987036,"{'type': 'Point', 'coordinates': [-73.987036, 40.777072]}",1
+1016,5dcda3e682fcdd0bd010169d,LeadVine,40.7038704,-74.0138541,"{'type': 'Point', 'coordinates': [-74.0138541, 40.7038704]}",1
+1017,5dcda2de82fcdd0bd00ff10b,LeadVine,40.7038704,-74.0138541,"{'type': 'Point', 'coordinates': [-74.0138541, 40.7038704]}",1
+1018,5dcda3e682fcdd0bd0101a5f,Executive Intermediary,40.7707439,-73.9569115,"{'type': 'Point', 'coordinates': [-73.9569115, 40.7707439]}",1
+1019,5dcda2de82fcdd0bd00ff4cd,Executive Intermediary,40.7707439,-73.9569115,"{'type': 'Point', 'coordinates': [-73.9569115, 40.7707439]}",1
+1020,5dcda2de82fcdd0bd00fec14,Alwayswater,40.747005,-74.039011,"{'type': 'Point', 'coordinates': [-74.039011, 40.747005]}",1
+1021,5dcda3e682fcdd0bd0100fa9,SuiteMatch,40.747005,-74.039011,"{'type': 'Point', 'coordinates': [-74.039011, 40.747005]}",1
+1022,5dcda3e682fcdd0bd01011a6,Alwayswater,40.747005,-74.039011,"{'type': 'Point', 'coordinates': [-74.039011, 40.747005]}",1
+1023,5dcda2de82fcdd0bd00febb7,SuiteMatch,40.747005,-74.039011,"{'type': 'Point', 'coordinates': [-74.039011, 40.747005]}",1
+1024,5dcda3e682fcdd0bd0101149,SuiteMatch,40.747005,-74.039011,"{'type': 'Point', 'coordinates': [-74.039011, 40.747005]}",1
+1025,5dcda2de82fcdd0bd00fea17,SuiteMatch,40.747005,-74.039011,"{'type': 'Point', 'coordinates': [-74.039011, 40.747005]}",1
+1026,5dcda2de82fcdd0bd00ff0f0,Gawkk,40.778635,-73.984438,"{'type': 'Point', 'coordinates': [-73.984438, 40.778635]}",1
+1027,5dcda3e682fcdd0bd0101682,Gawkk,40.778635,-73.984438,"{'type': 'Point', 'coordinates': [-73.984438, 40.778635]}",1
+1028,5dcda3e682fcdd0bd01023c2,Sword,40.7029757,-74.0143524,"{'type': 'Point', 'coordinates': [-74.0143524, 40.7029757]}",1
+1029,5dcda2de82fcdd0bd00ffe30,Sword,40.7029757,-74.0143524,"{'type': 'Point', 'coordinates': [-74.0143524, 40.7029757]}",1
+1030,5dcda3e682fcdd0bd010197c,Empire Rehearsal Studios,40.7421458,-73.9331566,"{'type': 'Point', 'coordinates': [-73.9331566, 40.7421458]}",1
+1031,5dcda2de82fcdd0bd00ff3ea,Empire Rehearsal Studios,40.7421458,-73.9331566,"{'type': 'Point', 'coordinates': [-73.9331566, 40.7421458]}",1
+1032,5dcda2de82fcdd0bd00fed96,CarZen,40.76945,-73.951865,"{'type': 'Point', 'coordinates': [-73.951865, 40.76945]}",1
+1033,5dcda3e682fcdd0bd0101328,CarZen,40.76945,-73.951865,"{'type': 'Point', 'coordinates': [-73.951865, 40.76945]}",1
+1034,5dcda2de82fcdd0bd00ffeac,Axon Solutions,40.715887,-74.033251,"{'type': 'Point', 'coordinates': [-74.033251, 40.715887]}",1
+1035,5dcda3e682fcdd0bd010243e,Axon Solutions,40.715887,-74.033251,"{'type': 'Point', 'coordinates': [-74.033251, 40.715887]}",1
+1036,5dcda3e682fcdd0bd0100b7f,Neocleus,40.716438,-74.033872,"{'type': 'Point', 'coordinates': [-74.033872, 40.716438]}",1
+1037,5dcda2de82fcdd0bd00fe5ed,Neocleus,40.716438,-74.033872,"{'type': 'Point', 'coordinates': [-74.033872, 40.716438]}",1
+1038,5dcda3e682fcdd0bd0100c45,Datapipe,40.71644,-74.03392,"{'type': 'Point', 'coordinates': [-74.03392, 40.71644]}",1
+1039,5dcda2de82fcdd0bd00fe6b3,Datapipe,40.71644,-74.03392,"{'type': 'Point', 'coordinates': [-74.03392, 40.71644]}",1
+1040,5dcda3e682fcdd0bd0100ac5,Sonibyte,40.769466,-73.950845,"{'type': 'Point', 'coordinates': [-73.950845, 40.769466]}",1
+1041,5dcda2de82fcdd0bd00fe533,Sonibyte,40.769466,-73.950845,"{'type': 'Point', 'coordinates': [-73.950845, 40.769466]}",1
+1042,5dcda3e682fcdd0bd0100828,Accoona,40.716144,-74.03507,"{'type': 'Point', 'coordinates': [-74.03507, 40.716144]}",1
+1043,5dcda2de82fcdd0bd00fe296,Accoona,40.716144,-74.03507,"{'type': 'Point', 'coordinates': [-74.03507, 40.716144]}",1
+1044,5dcda3e682fcdd0bd0101e4f,Healogica,40.779959,-73.976151,"{'type': 'Point', 'coordinates': [-73.976151, 40.779959]}",1
+1045,5dcda2de82fcdd0bd00ff8bd,Healogica,40.779959,-73.976151,"{'type': 'Point', 'coordinates': [-73.976151, 40.779959]}",1
+1046,5dcda2de82fcdd0bd00fe26e,WebVet,40.7717776,-73.9513502,"{'type': 'Point', 'coordinates': [-73.9513502, 40.7717776]}",1
+1047,5dcda3e682fcdd0bd0100800,WebVet,40.7717776,-73.9513502,"{'type': 'Point', 'coordinates': [-73.9513502, 40.7717776]}",1
+1048,5dcda2de82fcdd0bd00fdc9c,Etsy,40.694731,-73.983268,"{'type': 'Point', 'coordinates': [-73.983268, 40.694731]}",1
+1049,5dcda3e682fcdd0bd010022e,Etsy,40.694731,-73.983268,"{'type': 'Point', 'coordinates': [-73.983268, 40.694731]}",1
+1050,5dcda2de82fcdd0bd00fdb88,RayV,40.781159,-73.978332,"{'type': 'Point', 'coordinates': [-73.978332, 40.781159]}",1
+1051,5dcda3e682fcdd0bd010011a,RayV,40.781159,-73.978332,"{'type': 'Point', 'coordinates': [-73.978332, 40.781159]}",1
+1052,5dcda2de82fcdd0bd00ff167,VectorMAX,40.7172211,-74.0406491,"{'type': 'Point', 'coordinates': [-74.0406491, 40.7172211]}",1
+1053,5dcda3e682fcdd0bd01016f9,VectorMAX,40.7172211,-74.0406491,"{'type': 'Point', 'coordinates': [-74.0406491, 40.7172211]}",1
+1054,5dcda2de82fcdd0bd00ff553,A1-4 Electronics,40.6996318,-73.9514066,"{'type': 'Point', 'coordinates': [-73.9514066, 40.6996318]}",1
+1055,5dcda3e682fcdd0bd0101ae5,A1-4 Electronics,40.6996318,-73.9514066,"{'type': 'Point', 'coordinates': [-73.9514066, 40.6996318]}",1
+1056,5dcda3e682fcdd0bd01006bf,New York Designs,40.743264,-73.923427,"{'type': 'Point', 'coordinates': [-73.923427, 40.743264]}",1
+1057,5dcda2de82fcdd0bd00fe12d,New York Designs,40.743264,-73.923427,"{'type': 'Point', 'coordinates': [-73.923427, 40.743264]}",1
+1058,5dcda2de82fcdd0bd00fe77e,Overtime Media,40.779947,-73.953502,"{'type': 'Point', 'coordinates': [-73.953502, 40.779947]}",2
+1059,5dcda3e682fcdd0bd0100d10,Overtime Media,40.779947,-73.953502,"{'type': 'Point', 'coordinates': [-73.953502, 40.779947]}",2
+1060,5dcda2de82fcdd0bd00ffa9d,Stemline Therapeutics,40.7775647,-73.9459335,"{'type': 'Point', 'coordinates': [-73.9459335, 40.7775647]}",1
+1061,5dcda3e682fcdd0bd010202f,Stemline Therapeutics,40.7775647,-73.9459335,"{'type': 'Point', 'coordinates': [-73.9459335, 40.7775647]}",1
+1062,5dcda2de82fcdd0bd00fddf4,Unype,40.787783,-73.976413,"{'type': 'Point', 'coordinates': [-73.976413, 40.787783]}",1
+1063,5dcda3e682fcdd0bd0100386,Unype,40.787783,-73.976413,"{'type': 'Point', 'coordinates': [-73.976413, 40.787783]}",1
+1064,5dcda2de82fcdd0bd00ff656,VideoCustomizer,40.778334,-73.9453758,"{'type': 'Point', 'coordinates': [-73.9453758, 40.778334]}",2
+1065,5dcda3e682fcdd0bd0101be8,VideoCustomizer,40.778334,-73.9453758,"{'type': 'Point', 'coordinates': [-73.9453758, 40.778334]}",2
+1066,5dcda3e682fcdd0bd010085f,Broadband Reports,40.7825212,-73.9512806,"{'type': 'Point', 'coordinates': [-73.9512806, 40.7825212]}",1
+1067,5dcda2de82fcdd0bd00fe2cd,Broadband Reports,40.7825212,-73.9512806,"{'type': 'Point', 'coordinates': [-73.9512806, 40.7825212]}",1
+1068,5dcda2de82fcdd0bd00ff875,Rentricity,40.7917182,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.7917182]}",1
+1069,5dcda3e682fcdd0bd0101e07,Rentricity,40.7917182,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.7917182]}",1
+1070,5dcda2de82fcdd0bd00fdd59,Brownstoner Media,40.684257,-73.961981,"{'type': 'Point', 'coordinates': [-73.961981, 40.684257]}",1
+1071,5dcda3e682fcdd0bd01002eb,Brownstoner Media,40.684257,-73.961981,"{'type': 'Point', 'coordinates': [-73.961981, 40.684257]}",1
+1072,5dcda2de82fcdd0bd00ffe7d,Fictionaut,40.7597951,-73.9161267,"{'type': 'Point', 'coordinates': [-73.9161267, 40.7597951]}",2
+1073,5dcda3e682fcdd0bd010240f,Fictionaut,40.7597951,-73.9161267,"{'type': 'Point', 'coordinates': [-73.9161267, 40.7597951]}",2
+1074,5dcda3e682fcdd0bd01003b6,RareShare,40.794985,-73.96831,"{'type': 'Point', 'coordinates': [-73.96831, 40.794985]}",1
+1075,5dcda2de82fcdd0bd00fde24,RareShare,40.794985,-73.96831,"{'type': 'Point', 'coordinates': [-73.96831, 40.794985]}",1
+1076,5dcda2de82fcdd0bd00fda19,Rocketboom,40.797364,-73.97785,"{'type': 'Point', 'coordinates': [-73.97785, 40.797364]}",1
+1077,5dcda3e682fcdd0bd00fffab,Rocketboom,40.797364,-73.97785,"{'type': 'Point', 'coordinates': [-73.97785, 40.797364]}",1
+1078,5dcda2de82fcdd0bd00fdcc6,Orglex,40.797364,-73.97785,"{'type': 'Point', 'coordinates': [-73.97785, 40.797364]}",1
+1079,5dcda3e682fcdd0bd0100258,Orglex,40.797364,-73.97785,"{'type': 'Point', 'coordinates': [-73.97785, 40.797364]}",1
+1080,5dcda2de82fcdd0bd00fe27f,College Mogul,40.798345,-73.963158,"{'type': 'Point', 'coordinates': [-73.963158, 40.798345]}",1
+1081,5dcda3e682fcdd0bd0100811,College Mogul,40.798345,-73.963158,"{'type': 'Point', 'coordinates': [-73.963158, 40.798345]}",1
+1082,5dcda3e682fcdd0bd0100205,Vemo,40.6772802,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.6772802]}",1
+1083,5dcda2de82fcdd0bd00fdc73,Vemo,40.6772802,-74.0094471,"{'type': 'Point', 'coordinates': [-74.0094471, 40.6772802]}",1
+1084,5dcda2de82fcdd0bd00ffaa2,"Spurd, Inc",40.675234,-73.971043,"{'type': 'Point', 'coordinates': [-73.971043, 40.675234]}",1
+1085,5dcda3e682fcdd0bd0102034,"Spurd, Inc",40.675234,-73.971043,"{'type': 'Point', 'coordinates': [-73.971043, 40.675234]}",1
+1086,5dcda2de82fcdd0bd00ffc73,iNetGiant,40.675234,-73.971043,"{'type': 'Point', 'coordinates': [-73.971043, 40.675234]}",1
+1087,5dcda3e682fcdd0bd0102205,iNetGiant,40.675234,-73.971043,"{'type': 'Point', 'coordinates': [-73.971043, 40.675234]}",1
+1088,5dcda2de82fcdd0bd00fe649,College Toolkit,40.673165,-73.964687,"{'type': 'Point', 'coordinates': [-73.964687, 40.673165]}",1
+1089,5dcda3e682fcdd0bd0100bdb,College Toolkit,40.673165,-73.964687,"{'type': 'Point', 'coordinates': [-73.964687, 40.673165]}",1
+1090,5dcda2de82fcdd0bd00ff1f6,Princeton Premier,40.7702598,-73.909232,"{'type': 'Point', 'coordinates': [-73.909232, 40.7702598]}",1
+1091,5dcda3e682fcdd0bd0101788,Princeton Premier,40.7702598,-73.909232,"{'type': 'Point', 'coordinates': [-73.909232, 40.7702598]}",1
+1092,5dcda3e682fcdd0bd0100ded,InChairTV,40.80405,-73.952833,"{'type': 'Point', 'coordinates': [-73.952833, 40.80405]}",1
+1093,5dcda2de82fcdd0bd00fe85b,InChairTV,40.80405,-73.952833,"{'type': 'Point', 'coordinates': [-73.952833, 40.80405]}",1
+1094,5dcda3e682fcdd0bd01006ae,Mad Mimi,40.66509,-73.980306,"{'type': 'Point', 'coordinates': [-73.980306, 40.66509]}",1
+1095,5dcda2de82fcdd0bd00fe11c,Mad Mimi,40.66509,-73.980306,"{'type': 'Point', 'coordinates': [-73.980306, 40.66509]}",1
+1096,5dcda3e682fcdd0bd0102270,Antenna Software,40.720883,-74.081365,"{'type': 'Point', 'coordinates': [-74.081365, 40.720883]}",2
+1097,5dcda2de82fcdd0bd00ffcde,Antenna Software,40.720883,-74.081365,"{'type': 'Point', 'coordinates': [-74.081365, 40.720883]}",2
+1098,5dcda3e682fcdd0bd010013c,Simpy,40.6632194,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.6632194]}",1
+1099,5dcda2de82fcdd0bd00fdbaa,Simpy,40.6632194,-73.9800645,"{'type': 'Point', 'coordinates': [-73.9800645, 40.6632194]}",1
+1100,5dcda2de82fcdd0bd00fece6,Global Relay,40.662332,-73.982629,"{'type': 'Point', 'coordinates': [-73.982629, 40.662332]}",1
+1101,5dcda3e682fcdd0bd0101278,Global Relay,40.662332,-73.982629,"{'type': 'Point', 'coordinates': [-73.982629, 40.662332]}",1
+1102,5dcda2de82fcdd0bd00ff094,Dot Com Infoway,40.8129335,-73.9586329,"{'type': 'Point', 'coordinates': [-73.9586329, 40.8129335]}",3
+1103,5dcda3e682fcdd0bd0101626,Dot Com Infoway,40.8129335,-73.9586329,"{'type': 'Point', 'coordinates': [-73.9586329, 40.8129335]}",3
+1104,5dcda2de82fcdd0bd00ff3fa,Hyperpot,40.6599808,-73.9948358,"{'type': 'Point', 'coordinates': [-73.9948358, 40.6599808]}",1
+1105,5dcda3e682fcdd0bd010198c,Hyperpot,40.6599808,-73.9948358,"{'type': 'Point', 'coordinates': [-73.9948358, 40.6599808]}",1
+1106,5dcda3e682fcdd0bd0100739,StubOrder,40.660393,-73.957626,"{'type': 'Point', 'coordinates': [-73.957626, 40.660393]}",1
+1107,5dcda2de82fcdd0bd00fe1a7,StubOrder,40.660393,-73.957626,"{'type': 'Point', 'coordinates': [-73.957626, 40.660393]}",1
+1108,5dcda3e682fcdd0bd01010b3,Klatcher,40.822087,-73.950677,"{'type': 'Point', 'coordinates': [-73.950677, 40.822087]}",1
+1109,5dcda2de82fcdd0bd00feb21,Klatcher,40.822087,-73.950677,"{'type': 'Point', 'coordinates': [-73.950677, 40.822087]}",1
+1110,5dcda3e682fcdd0bd0100f13,Klatcher,40.822087,-73.950677,"{'type': 'Point', 'coordinates': [-73.950677, 40.822087]}",1
+1111,5dcda2de82fcdd0bd00fe981,Klatcher,40.822087,-73.950677,"{'type': 'Point', 'coordinates': [-73.950677, 40.822087]}",1
